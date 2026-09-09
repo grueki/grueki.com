@@ -1,13 +1,16 @@
 body {
     background-color: chartreuse;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .home-title {
-    text-align: center;
+    width: fit-content;
 }
 
-.home-title:hover {
-    text-align: center;
+.home-title:hover h1{
     color:red;
     animation: goofyRotate 0.5s linear infinite;
 }
