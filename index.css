@@ -1,0 +1,25 @@
+body {
+    background-color: chartreuse;
+}
+
+.home-title {
+    text-align: center;
+}
+
+.home-title:hover {
+    text-align: center;
+    color:red;
+    animation: goofyRotate 0.5s linear infinite;
+}
+
+.home-paragraph {
+    text-align: center;
+}
+
+@keyframes goofyRotate {
+    0%   {rotate: 0deg; color: red;}
+    25%  {rotate: 90deg; color: yellow;}
+    50%  {rotate: 180deg; color: green;}
+    75%  {rotate: 270deg; color: blue;}
+    100% {rotate: 360deg; color: purple;}
+}
