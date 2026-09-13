@@ -1,0 +1,538 @@
+[
+    {
+        "title": "Roman Candle",
+        "artist": "Elliott Smith",
+        "discovered": 2016,
+        "tags": ["quiet", ""]
+    },
+    {
+        "title": "Vanisher, Horizon Scraper",
+        "artist": "Quadeca",
+        "discovered": 2025
+    },
+    {
+        "title": "Low",
+        "artist": "David Bowie",
+        "discovered": 2018
+    },
+    {
+        "title": "Wallsocket",
+        "artist": "Underscores",
+        "discovered": 2024
+    },
+    {
+        "title": "HALO",
+        "artist": "Tiffany Day",
+        "discovered": 2026
+    },
+    {
+        "title": "Kid A",
+        "artist": "Radiohead",
+        "discovered": 2015
+    },
+    {
+        "title": "Figure 8",
+        "artist": "Elliott Smith",
+        "discovered": 2015
+    },
+    {
+        "title": "Unhappy Refrain",
+        "artist": "wowaka",
+        "discovered": 2013
+    },
+    {
+        "title": "When the Pawn...",
+        "artist": "Fiona Apple",
+        "discovered": 2019
+    },
+    {
+        "title": "Pinback",
+        "artist": "Pinback",
+        "discovered": 2026
+    },
+    {
+        "title": "No Dogs Allowed",
+        "artist": "Sidney Gish",
+        "discovered": 2017
+    },
+    {
+        "title": "Puberty 2",
+        "artist": "Mitski",
+        "discovered": 2016
+    },
+    {
+        "title": "Illinois",
+        "artist": "Sufjan Stevens",
+        "discovered": 2018
+    },
+    {
+        "title": "SATURATION III",
+        "artist": "BROCKHAMPTON",
+        "discovered": 2019
+    },
+    {
+        "title": "Midnight Marauders",
+        "artist": "A Tribe Called Quest",
+        "discovered": 2018
+    },
+    {
+        "title": "The Specials",
+        "artist": "The Specials",
+        "discovered": 2017
+    },
+    {
+        "title": "Back To Black",
+        "artist": "Amy Winehouse",
+        "discovered": 2010
+    },
+    {
+        "title": "Since I Left You",
+        "artist": "The Avalanches",
+        "discovered": 2017
+    },
+    {
+        "title": "If You're Feeling Sinister",
+        "artist": "Belle & Sebastian",
+        "discovered": 2021
+    },
+    {
+        "title": "Demon Days",
+        "artist": "Gorillaz",
+        "discovered": 2010
+    },
+    {
+        "title": "Twin Fantasy",
+        "artist": "Car Seat Headrest",
+        "discovered": 2018
+    },
+    {
+        "title": "Homogenic",
+        "artist": "Björk",
+        "discovered": 2018
+    },
+    {
+        "title": "I Can Hear The Heart Beating As One",
+        "artist": "Yo La Tengo",
+        "discovered": 2018
+    },
+    {
+        "title": "A Lonely Sinner",
+        "artist": "samlrc",
+        "discovered": 2024
+    },
+    {
+        "title": "Bleeds",
+        "artist": "Wednesday",
+        "discovered": 2025
+    },
+    {
+        "title": "Heavy Metal",
+        "artist": "Cameron Winter",
+        "discovered": 2025
+    },
+    {
+        "title": "Getting Killed",
+        "artist": "Geese",
+        "discovered": 2026
+    },
+    {
+        "title": "Car Button Cloth",
+        "artist": "The Lemonheads",
+        "discovered": 2014
+    },
+    {
+        "title": "13",
+        "artist": "Blur",
+        "discovered": 2018
+    },
+    {
+        "title": "Blur",
+        "artist": "Blur",
+        "discovered": 2018
+    },
+    {
+        "title": "Yoshimi Battles the Pink Robots",
+        "artist": "The Flaming Lips",
+        "discovered": 2017
+    },
+    {
+        "title": "Toxicity",
+        "artist": "System Of A Down",
+        "discovered": 2015
+    },
+    {
+        "title": "Mezmerize",
+        "artist": "System Of A Down",
+        "discovered": 2017
+    },
+    {
+        "title": "Abbey Road",
+        "artist": "The Beatles",
+        "discovered": 2014
+    },
+    {
+        "title": "The College Dropout",
+        "artist": "Kanye West",
+        "discovered": 2021
+    },
+    {
+        "title": "SOUL LADY",
+        "artist": "YUKIKA",
+        "discovered": 2022
+    },
+    {
+        "title": "For the first time",
+        "artist": "Black Country, New Road",
+        "discovered": 2023
+    },
+    {
+        "title": "Ants From Up There",
+        "artist": "Black Country, New Road",
+        "discovered": 2022
+    },
+    {
+        "title": "I Love You Jennifer B",
+        "artist": "Jockstrap",
+        "discovered": 2023
+    },
+    {
+        "title": "Topical Dancer",
+        "artist": "Charlotte Adigéry & Bolis Pupul",
+        "discovered": 2022
+    },
+    {
+        "title": "Time Out",
+        "artist": "The Dave Brubeck Quartet",
+        "discovered": 2026
+    },
+    {
+        "title": "andymori",
+        "artist": "andymori",
+        "discovered": 2026
+    },
+    {
+        "title": "NO HANDS",
+        "artist": "Joey Valence & Brae",
+        "discovered": 2024
+    },
+    {
+        "title": "3 Feet High and Rising",
+        "artist": "De La Soul",
+        "discovered": 2018
+    },
+    {
+        "title": "The Normal Album",
+        "artist": "Will Wood",
+        "discovered": 2023,
+        "comment": "will wood calls his genre 'rat jazz' and i have to say i agree"
+    },
+    {
+        "title": "I Love My Computer",
+        "artist": "Niniajirachi",
+        "discovered": 2026
+    },
+    {
+        "title": "Ramadan",
+        "artist": "ee",
+        "discovered": 2026
+    },
+    {
+        "title": "Lupe Fiasco's Food & Liquor",
+        "artist": "Lupe Fiasco",
+        "discovered": 2026
+    },
+    {
+        "title": "1000 gecs",
+        "artist": "100 gecs",
+        "discovered": 2020
+    },
+    {
+        "title": "City Slicker",
+        "artist": "Ginger Root",
+        "discovered": 2022
+    },
+    {
+        "title": "The Mollusk",
+        "artist": "Ween",
+        "discovered": 2018
+    },
+    {
+        "title": "Chocolate and Cheese",
+        "artist": "Ween",
+        "discovered": 2019
+    },
+    {
+        "title": "Andy Shauf",
+        "artist": "The Party",
+        "discovered": 2018
+    },
+    {
+        "title": "Death By Chocolate",
+        "artist": "De-Phazz",
+        "discovered": 2016
+    },
+    {
+        "title": "Spirit Phone",
+        "artist": "Lemon Demon",
+        "discovered": 2022
+    },
+    {
+        "title": "Different Class",
+        "artist": "Pulp",
+        "discovered": 2018
+    },
+    {
+        "title": "Elastica",
+        "artist": "Elastica",
+        "discovered": 2017
+    },
+    {
+        "title": "Foxbase Alpha",
+        "artist": "Saint Etienne",
+        "discovered": 2017
+    },
+    {
+        "title": "Hellfire",
+        "artist": "black midi",
+        "discovered": 2022
+    },
+    {
+        "title": "Massive Shoe",
+        "artist": "Way Dynamic",
+        "discovered": 2026
+    },
+    {
+        "title": "Thunder, Lightning, Go!",
+        "artist": "The Go! Team",
+        "discovered": 2022
+    },
+    {
+        "title": "Mezzanine",
+        "artist": "Massive Attack",
+        "discovered": 2020
+    },
+    {
+        "title": "The Soft Bulletin",
+        "artist": "The Flaming Lips",
+        "discovered": 2018
+    },
+    {
+        "title": "Volcano",
+        "artist": "Jungle",
+        "discovered": 2023
+    },
+    {
+        "title": "IGOR",
+        "artist": "Tyler, The Creator",
+        "discovered": 2020
+    },
+    {
+        "title": "You Will Never Know Why",
+        "artist": "Sweet Trip",
+        "discovered": 2022
+    },
+    {
+        "title": "Flower Boy",
+        "artist": "Tyler, The Creator",
+        "discovered": 2019
+    },
+    {
+        "title": "Future Me Hates Me",
+        "artist": "The Beths",
+        "discovered": 2019
+    },
+    {
+        "title": "The Score",
+        "artist": "Fugees",
+        "discovered": 2018
+    },
+    {
+        "title": "Titanic Rising",
+        "artist": "Weyes Blood",
+        "discovered": 2020
+    },
+    {
+        "title": "Whatever And Ever Amen",
+        "artist": "Ben Folds Five",
+        "discovered": 2023
+    },
+    {
+        "title": "Flood",
+        "artist": "They Might Be Giants",
+        "discovered": 2019
+    },
+    {
+        "title": "Station To Station",
+        "artist": "David Bowie",
+        "discovered": 2019
+    },
+    {
+        "title": "Tommy airline",
+        "artist": "Tommy february6",
+        "discovered": 2026
+    },
+    {
+        "title": "Imaginal Disk",
+        "artist": "Magdalena Bay",
+        "discovered": 2024
+    },
+    {
+        "title": "Philharmony",
+        "artist": "Haruomi Hosono",
+        "discovered": 2025
+    },
+    {
+        "title": "Violent Femmes",
+        "artist": "Violent Femmes",
+        "discovered": 2018
+    },
+    {
+        "title": "Electro-Shock Blues",
+        "artist": "Eels",
+        "discovered": 2017,
+        "comment": "i have really distinct memories of this one. my girlfriend at the time was in the psych ward. it was out in buttfuck nowhere. i used to listen to this one on the train out to the facility to visit her. on the way back too, sometimes. it would be dark when i left. sometimes i wonder how she's doing."
+    },
+    {
+        "title": "Yankee Hotel Foxtrot",
+        "artist": "Wilco",
+        "discovered": 2016
+    },
+    {
+        "title": "무너지기 (Crumbling)",
+        "artist": "Mid-Air Thief",
+        "discovered": 2020
+    },
+    {
+        "title": "Doll Online",
+        "artist": "Clark Rainbow",
+        "discovered": 2026
+    },
+    {
+        "title": "House of Sugar",
+        "artist": "Alex G",
+        "discovered": 2020
+    },
+    {
+        "title": "volcanic bird enemy and the voiced concern",
+        "artist": "Lil Ugly Mane",
+        "discovered": 2023
+    },
+    {
+        "title": "PANDEMIC",
+        "artist": "THREEE",
+        "discovered": 2023,
+        "tags": ["upbeat", "bouncy", "fawnky", "vocaloid", "electronic"]
+    },
+    {
+        "title": "A Night At The Opera",
+        "artist": "Queen",
+        "discovered": 2010,
+        "tags": ["classic", "rock", "theatrical"]
+    },
+    {
+        "title": "This Is a Long Drive for Someone with Nothing to Think About",
+        "artist": "Modest Mouse",
+        "discovered": 2023
+    },
+    {
+        "title": "Troupeau bleu",
+        "artist": "Cortex",
+        "discovered": 2021
+    },
+    {
+        "title": "Circles",
+        "artist": "Mac Miller",
+        "discovered": 2022
+    },
+    {
+        "title": "OK Computer",
+        "artist": "Radiohead",
+        "discovered": 2016
+    },
+    {
+        "title": "Parklife",
+        "artist": "Blur",
+        "discovered": 2016
+    },
+    {
+        "title": "WORRY.",
+        "artist": "Jeff Rosenstock",
+        "discovered": 2022
+    },
+    {
+        "title": "Ooh Rap I Ya",
+        "artist": "George Clanton",
+        "discovered": 2026
+    },
+    {
+        "title": "Bury Me at Makeout Creek",
+        "artist": "Mitski",
+        "discovered": 2017
+    },
+    {
+        "title": "ITEKOMA HITS",
+        "artist": "Otoboke Beaver",
+        "discovered": 2023
+    },
+    {
+        "title": "Either/Or",
+        "artist": "Elliott Smith",
+        "discovered": 2015
+    },
+    {
+        "title": "Colour Green",
+        "artist": "Sibylle Baier",
+        "discovered": 2024
+    },
+    {
+        "title": "I Don't Hate You",
+        "artist": "Ogbert the Nerd",
+        "discovered": 2022
+    },
+    {
+        "title": "TILT",
+        "artist": "NANORAY",
+        "discovered": 2022
+    },
+    {
+        "title": "SAWAYAMA",
+        "artist": "Rina Sawayama",
+        "discovered": 2022
+    },
+    {
+        "title": "C3L3STIAL天の",
+        "artist": "bliss3three",
+        "discovered": 2022,
+        "tags": ["trippy", "lo-fi", "ethereal", "instrumental"]
+    },
+    {
+        "title": "Gorillaz",
+        "artist": "Gorillaz",
+        "discovered": 2018
+    },
+    {
+        "title": "the first glass beach album",
+        "artist": "glass beach",
+        "discovered": 2022
+    },
+    {
+        "title": "Hospice",
+        "artist": "The Antlers",
+        "discovered": 2018
+    },
+    {
+        "title": "Swimmer",
+        "artist": "Tennis",
+        "discovered": 2022
+    },
+    {
+        "title": "Transfiguration Of Vincent",
+        "artist": "M. Ward",
+        "discovered": 2020
+    },
+    {
+        "title": "Emergency & I",
+        "artist": "Dismemberment Plan",
+        "discovered": 2023
+    }
+]
