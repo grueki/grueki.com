@@ -5,10 +5,46 @@ html, body {
 }
 
 body {
-    background-color: chartreuse;
+    background-color: rgb(5, 9, 27);
     display: flex;
     flex-direction: column;
     
+}
+
+.header-banner {
+    height: 150px;
+    /* border-color: blueviolet; */
+    border-bottom: 1px solid rgb(224, 45, 186);
+    align-items: center;
+    justify-content: center;
+    display:flex;
+}
+
+.main-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+}
+
+.navbar {
+    width:250px;
+    border-right: 1px solid rgb(224, 45, 186);
+    margin: 0;
+    padding: 0;
+}
+
+.navbar ul {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar li {
+    padding: 15px 0px 20px 20px;
+    border-bottom: 1px solid rgb(224, 45, 186);
+}
+
+.navbar a {
+    color: rgb(224, 45, 186);
 }
 
 .main-content {
@@ -17,9 +53,12 @@ body {
     flex: 1;
     align-items: center;
     justify-content: center;
+    color: rgb(224, 45, 186);
+    margin: 30px;
 }
 
 .home-title {
+    color: white;
     text-align: center;
     width: fit-content;
 }
@@ -48,11 +87,11 @@ body {
 .footer-banner p {
     color: white;
     margin:0;
-    animation: scrollingText 10s linear infinite;
+    animation: scrollingText 15s linear infinite;
 }
 
 .scrolltext2 {
-    animation-delay: 5s;
+    animation-delay: 7.5s;
 }
 
 @keyframes goofyRotate {
