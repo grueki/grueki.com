@@ -25,6 +25,7 @@ body {
     display: flex;
     flex-direction: row;
     flex: 1;
+    overflow: hidden;
 }
 
 .navbar {
@@ -42,10 +43,13 @@ body {
 .navbar li {
     padding: 15px 0px 20px 20px;
     border-bottom: 1px solid rgb(224, 45, 186);
+    display: flex;
+    align-items: center;
 }
 
 .navbar a {
     color: rgb(224, 45, 186);
+    padding: 0 10px;
 }
 
 .main-content {
@@ -56,6 +60,7 @@ body {
     justify-content: center;
     color: rgb(224, 45, 186);
     margin: 30px;
+    overflow-y: auto;
 }
 
 .home-title {
