@@ -58,6 +58,7 @@ body {
     flex: 1;
     align-items: center;
     justify-content: center;
+    position: relative;
     color: rgb(224, 45, 186);
     margin: 30px;
     overflow-y: auto;
@@ -93,11 +94,11 @@ body {
 .footer-banner p {
     color: white;
     margin:0;
-    animation: scrollingText 15s linear infinite;
+    animation: scrollingText 30s linear infinite;
 }
 
 .scrolltext2 {
-    animation-delay: 7.5s;
+    animation-delay: 15s;
 }
 
 @keyframes goofyRotate {

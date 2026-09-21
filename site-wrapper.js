@@ -5,7 +5,7 @@ function siteWrapper(content, stylesheet) {
             <style>html,body{background-color: #05091b;visibility: hidden;}</style>
             <link rel="stylesheet" href="/index.css">`
             + (stylesheet ? `<link rel="stylesheet" href="/${stylesheet}.css">` :  ``) +
-            `<title>g r u e k i . c o m</title>
+            `<title> g r u e k i . c o m </title>
             <link rel="icon" type="image/png" href="/favicon.png">
         </head>
         <body>
@@ -34,8 +34,8 @@ function siteWrapper(content, stylesheet) {
             </div>
 
             <footer class="footer-banner">
-                <p>100% HONEST TO GOD HUMAN CODED GOODNESS ★ NO ROBOTS WERE HARMED IN THE MAKING OF THIS SITE ★ DEATH TO MACHINES ★ 100% HONEST TO GOD HUMAN CODED BULLSHIT ★ NO ROBOTS WERE ABUSED IN THE MAKING OF THIS SITE ★ DEATH TO MACHINES ★ </p>
-                <p class="scrolltext2">100% HONEST TO GOD HUMAN CODED GOODNESS ★ NO ROBOTS WERE HARMED IN THE MAKING OF THIS SITE ★ DEATH TO MACHINES ★ 100% HONEST TO GOD HUMAN CODED BULLSHIT ★ NO ROBOTS WERE ABUSED IN THE MAKING OF THIS SITE ★ DEATH TO MACHINES ★ </p>
+                <p>100% HONEST TO GOD HUMAN CODED GOODNESS ★ NO ROBOTS WERE HARMED IN THE MAKING OF THIS SITE ★ DEATH TO MACHINES ★ 100% HONEST TO GOD HUMAN CODED BULLSHIT ★ NO ROBOTS WERE ABUSED IN THE MAKING OF THIS SITE ★ DEATH TO MACHINES ★ 100% HONEST TO GOD HUMAN CODED GOODNESS ★ NO ROBOTS WERE HARMED IN THE MAKING OF THIS SITE ★ DEATH TO MACHINES ★ 100% HONEST TO GOD HUMAN CODED BULLSHIT ★ NO ROBOTS WERE ABUSED IN THE MAKING OF THIS SITE ★ DEATH TO MACHINES ★ </p>
+                <p class="scrolltext2">100% HONEST TO GOD HUMAN CODED GOODNESS ★ NO ROBOTS WERE HARMED IN THE MAKING OF THIS SITE ★ DEATH TO MACHINES ★ 100% HONEST TO GOD HUMAN CODED BULLSHIT ★ NO ROBOTS WERE ABUSED IN THE MAKING OF THIS SITE ★ DEATH TO MACHINES ★ 100% HONEST TO GOD HUMAN CODED GOODNESS ★ NO ROBOTS WERE HARMED IN THE MAKING OF THIS SITE ★ DEATH TO MACHINES ★ 100% HONEST TO GOD HUMAN CODED BULLSHIT ★ NO ROBOTS WERE ABUSED IN THE MAKING OF THIS SITE ★ DEATH TO MACHINES ★ </p>
             </footer>
         </body> 
     `

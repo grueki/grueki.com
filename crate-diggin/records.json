@@ -168,7 +168,8 @@
     {
         "title": "Abbey Road",
         "artist": "The Beatles",
-        "discovered": 2014
+        "discovered": 2013,
+        "comment": "my day one. 'sun king' thru to 'she came in thru the bathroom window' still a truly epochal run of bangers even all these years later"
     },
     {
         "title": "The College Dropout",
@@ -534,5 +535,135 @@
         "title": "Emergency & I",
         "artist": "Dismemberment Plan",
         "discovered": 2023
+    },
+    {
+        "title": "Stereotype A",
+        "artist": "Cibo Matto",
+        "discovered": 2019
+    },
+    {
+        "title": "Viva! La Woman",
+        "artist": "Cibo Matto",
+        "discovered": 2019
+    },
+    {
+        "title": "Bar Mediterraneo",
+        "artist": "Nu Genea",
+        "discovered": 2026,
+        "comment": "i got recommended this one by a friend doing some Actual Real Life IRL crate diggin (would you believe). it's like background music, but peak tier background music. instant tropical holiday cosplay"
+    },
+    {
+        "title": "Grace",
+        "artist": "Jeff Buckley",
+        "discovered": 2020
+    },
+    {
+        "title": "Mogwai Young Team",
+        "artist": "Mogwai",
+        "discovered": 2017
+    },
+    {
+        "title": "How to Leave Town",
+        "artist": "Car Seat Headrest",
+        "discovered": 2021
+    },
+    {
+        "title": "Monomania",
+        "artist": "Car Seat Headrest",
+        "discovered": 2020
+    },
+    {
+        "title": "The Age of Adz",
+        "artist": "Sufjan Stevens",
+        "discovered": 2010
+    },
+    {
+        "title": "Vespertine",
+        "artist": "Bjork",
+        "discovered": 2018,
+        "comment": "beautiful glittery album. just gorgeous. literally sounds like a glass christmas ornament. randomly i had a weird couple months as a teenager where i couldn't get to sleep unless i was listening to frosti on repeat. not even one of the proper songs off the album. the damn interlude"
+    },
+    {
+        "title": "To Pimp A Butterfly",
+        "artist": "Kendrick Lamar",
+        "discovered": 2020
+    },
+    {
+        "title": "Marvin The Album",
+        "artist": "Frente!",
+        "discovered": 2009,
+        "comment": "we had this on casette for car listening when i was a kid. even now i have fond memories of it. our copy had their cover of bizarre love triangle as a bonus, which honestly is canon over the original to me personally. over new order! i know. sorry but that's how i feel."
+    },
+    {
+        "title": "Heaven Tonight",
+        "artist": "Cheap Trick",
+        "discovered": 2017,
+        "comment": "my dad loves this album. and i guess for that reason i do, too"
+    },
+    {
+        "title": "Marquee Moon",
+        "artist": "Television",
+        "discovered": 2018,
+        "comment": "my pretentious ass was listening to this way before i was able to appreciate it. pretending to get it made me feel so superior"
+    },
+    {
+        "title": "REDSTAR WU & THE WORLDWIDE SCOURGE",
+        "artist": "Genesis Owusu",
+        "discovered": 2026
+    },
+    {
+        "title": "Chet Baker Sings",
+        "artist": "Chet Baker",
+        "discovered": 2020
+    },
+    {
+        "title": "SEYCHELLES",
+        "artist": "Masayoshi Takanaka",
+        "discovered": 2025,
+        "comment": "one listen of this and u realise life can in fact be tengo suerte"
+    },
+    {
+        "title": "Ai ga nakucha ne.",
+        "artist": "Akiko Yano",
+        "discovered": 2024,
+        "comment": "i have heard she has better albums but this is the one ive listened to and i like it god dammit"
+    },
+    {
+        "title": "For Lovers",
+        "artist": "Lamp",
+        "discovered": 2021
+    },
+    {
+        "title": "Kalk Samen Chestnut Flower",
+        "artist": "Sheena Ringo",
+        "discovered": 2021,
+        "comment": "bjork if she was japanese and also slapped harder. just insane orchestral compositional shit goin on here"
+    },
+    {
+        "title": "This Year's Model",
+        "artist": "Elvis Costello",
+        "discovered": 2018
+    },
+    {
+        "title": "Station to Station",
+        "artist": "David Bowie",
+        "discovered": 2019,
+        "comment": "bowie earning his title as edgemaster supreme by how hard i bust when the kick finally kicks in at two minutes into the first track. and then he keeps draggin that fat beat out sexual style. you know you're gonna be in for a ride"
+    },
+    {
+        "title": "Endtroducing.....",
+        "artist": "DJ Shadow",
+        "discovered": 2018
+    },
+    {
+        "title": "Rubber Soul",
+        "artist": "The Beatles",
+        "discovered": 2020,
+        "comment": "it actually took me a while to get around to listening to this one. i didn't give it a spin until i was in uni. was really sleeping on it especially as the nick drake folkglazer that i am"
+    },
+    {
+        "title": "Pink Moon",
+        "artist": "Nick Drake",
+        "discovered": 2020
     }
 ]
