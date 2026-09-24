@@ -1,0 +1,90 @@
+.record-case-outer {
+    padding: 20px;
+    background-color: aliceblue;
+    margin-top: 20px;
+}
+
+.record-case {
+    height: 200px;
+    width: fit-content;
+    --animation-speed: 0.3s;
+    --gap-between-records: 10;
+    display: grid;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.record-sleeve {
+    height: 200px;
+    width: 200px;
+    grid-row-start: 1;
+    grid-column-start: 1;
+}
+
+.one {
+    margin-top: -200px;
+    background-color: chartreuse;
+    animation: recordScroll var(--animation-speed) linear infinite;
+    /* z-index: 10; */
+}
+
+.two {
+    margin-top: -200px;
+    background-color: red;
+    animation: recordScroll var(--animation-speed) linear infinite;
+    animation-delay: calc((var(--animation-speed)/var(--gap-between-records))*1);
+    /* z-index: 9; */
+}
+
+.three {
+    margin-top: -200px;
+    background-color: blue;
+    animation: recordScroll var(--animation-speed) linear infinite;
+    animation-delay: calc((var(--animation-speed)/var(--gap-between-records))*2);
+    /* z-index: 8; */
+}
+
+.four {
+    margin-top: -200px;
+    background-color: orange;
+    animation: recordScroll var(--animation-speed) linear infinite;
+    animation-delay: calc((var(--animation-speed)/var(--gap-between-records))*3);
+    /* z-index: 7; */
+}
+
+.five {
+    margin-top: -200px;
+    background-color: chartreuse;
+    animation: recordScroll var(--animation-speed) linear infinite;
+    animation-delay: calc((var(--animation-speed)/var(--gap-between-records))*4);
+    /* z-index: 6; */
+}
+
+.six {
+    margin-top: -200px;
+    background-color: red;
+    animation: recordScroll var(--animation-speed) linear infinite;
+    animation-delay: calc((var(--animation-speed)/var(--gap-between-records))*5);
+    /* z-index: 5; */
+}
+
+.seven {
+    margin-top: -200px;
+    background-color: blue;
+    animation: recordScroll var(--animation-speed) linear infinite;
+    animation-delay: calc((var(--animation-speed)/var(--gap-between-records))*6);
+    /* z-index: 4; */
+}
+
+.eight {
+    margin-top: -200px;
+    background-color: orange;
+    animation: recordScroll var(--animation-speed) linear infinite;
+    animation-delay: calc((var(--animation-speed)/var(--gap-between-records))*7);
+    /* z-index: 3; */
+}
+
+@keyframes recordScroll {
+    0%   { margin-top: -200px; z-index: 10; }
+    100% { margin-top: 200px; z-index: 0; }
+}

@@ -665,5 +665,16 @@
         "title": "Pink Moon",
         "artist": "Nick Drake",
         "discovered": 2020
+    },
+    {
+        "title": "Transient",
+        "artist": "Gaelle",
+        "discovered": 2026
+    },
+    {
+        "title": "Quebec",
+        "artist": "Ween",
+        "discovered": 2021,
+        "comment": "truly ween at their weeniest. my god. love their classics but they rlly peaked here"
     }
 ]
