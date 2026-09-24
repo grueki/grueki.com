@@ -2,16 +2,20 @@
     padding: 20px;
     background-color: aliceblue;
     margin-top: 20px;
+    
 }
 
 .record-case {
     height: 200px;
     width: fit-content;
-    --animation-speed: 0.3s;
-    --gap-between-records: 10;
-    display: grid;
-    justify-content: center;
+    display: flex;
+    flex-direction: column;
     overflow: hidden;
+}
+
+.all-records {
+    animation: recordScroll 2s cubic-bezier(0, 0, 0, 0.8) 1;
+    animation-fill-mode: forwards;
 }
 
 .record-sleeve {
@@ -19,72 +23,83 @@
     width: 200px;
     grid-row-start: 1;
     grid-column-start: 1;
+    box-shadow: 0 -10px 20px rgba(0, 0, 0, 0.5);
+}
+
+.record-stack {
+    display: grid;
+    justify-content: center;
+    
+    margin: 0 auto;
+    height: 480px;
 }
 
 .one {
-    margin-top: -200px;
-    background-color: chartreuse;
-    animation: recordScroll var(--animation-speed) linear infinite;
-    /* z-index: 10; */
+    margin-top: 0px;
+    background-color: pink;
 }
 
 .two {
-    margin-top: -200px;
+    margin-top: 40px;
     background-color: red;
-    animation: recordScroll var(--animation-speed) linear infinite;
-    animation-delay: calc((var(--animation-speed)/var(--gap-between-records))*1);
-    /* z-index: 9; */
 }
 
 .three {
-    margin-top: -200px;
-    background-color: blue;
-    animation: recordScroll var(--animation-speed) linear infinite;
-    animation-delay: calc((var(--animation-speed)/var(--gap-between-records))*2);
-    /* z-index: 8; */
+    margin-top: 80px;
+    background-color: orange;
 }
 
 .four {
-    margin-top: -200px;
-    background-color: orange;
-    animation: recordScroll var(--animation-speed) linear infinite;
-    animation-delay: calc((var(--animation-speed)/var(--gap-between-records))*3);
-    /* z-index: 7; */
+    margin-top: 120px;
+    background-color: yellow;
 }
 
 .five {
-    margin-top: -200px;
+    margin-top: 160px;
     background-color: chartreuse;
-    animation: recordScroll var(--animation-speed) linear infinite;
-    animation-delay: calc((var(--animation-speed)/var(--gap-between-records))*4);
-    /* z-index: 6; */
 }
 
 .six {
-    margin-top: -200px;
-    background-color: red;
-    animation: recordScroll var(--animation-speed) linear infinite;
-    animation-delay: calc((var(--animation-speed)/var(--gap-between-records))*5);
-    /* z-index: 5; */
+    margin-top: 200px;
+    background-color: green;
 }
 
 .seven {
-    margin-top: -200px;
-    background-color: blue;
-    animation: recordScroll var(--animation-speed) linear infinite;
-    animation-delay: calc((var(--animation-speed)/var(--gap-between-records))*6);
-    /* z-index: 4; */
+    margin-top: 240px;
+    background-color: turquoise;
 }
 
 .eight {
-    margin-top: -200px;
-    background-color: orange;
-    animation: recordScroll var(--animation-speed) linear infinite;
-    animation-delay: calc((var(--animation-speed)/var(--gap-between-records))*7);
-    /* z-index: 3; */
+    margin-top: 280px;
+    background-color: skyblue;
+}
+
+.nine {
+    margin-top: 320px;
+    background-color: blue;
+}
+
+.ten {
+    margin-top: 360px;
+    background-color: blueviolet;
+}
+
+.eleven {
+    margin-top: 400px;
+    background-color: violet;
+}
+
+.twelve {
+    margin-top: 440px;
+    background-color: hotpink;
+}
+
+.thirteen {
+    margin-top: 480px;
+    background-color: black;
 }
 
 @keyframes recordScroll {
-    0%   { margin-top: -200px; z-index: 10; }
-    100% { margin-top: 200px; z-index: 0; }
+    0%   { transform: translate(0, 0); }
+    100% { transform: translate(0, -100%); }
 }
