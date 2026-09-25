@@ -57,7 +57,7 @@ async function dig() {
 
   await wait(2000);
   
-  albumInfo.innerHTML = albums[albumToDisplay].title + " - " + albums[albumToDisplay].artist + "<br><br>I discovered this one in " + albums[albumToDisplay].discovered + ".<br><br>" + ((albums[albumToDisplay].comment) ?? "");
+  albumInfo.innerHTML = albums[albumToDisplay].title + " - " + albums[albumToDisplay].artist + "<br><br>I discovered this one in " + albums[albumToDisplay].discovered + ". It's a" + ('aeiou'.includes(albums[albumToDisplay].genre[0].toLowerCase()) ? "n" : "") + " " + albums[albumToDisplay].genre + " album.<br><br>" + ((albums[albumToDisplay].comment) ?? "");
 
   digButton.disabled = false;
   const records = document.querySelectorAll('.record-sleeve');

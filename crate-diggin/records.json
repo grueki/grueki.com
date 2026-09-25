@@ -3,514 +3,598 @@
         "title": "Roman Candle",
         "artist": "Elliott Smith",
         "discovered": 2016,
-        "image": "RomanCandle_ElliottSmith.jpeg"
+        "image": "RomanCandle_ElliottSmith.jpeg",
+        "genre": "indie folk"
     },
     {
         "title": "Vanisher, Horizon Scraper",
         "artist": "Quadeca",
         "discovered": 2025,
-        "image": "VanisherHorizonScraper_Quadeca.jpeg"
+        "image": "VanisherHorizonScraper_Quadeca.jpeg",
+        "genre": "experimental hip hop"
     },
     {
         "title": "Low",
         "artist": "David Bowie",
         "discovered": 2018,
-        "image": "Low_DavidBowie.jpg"
+        "image": "Low_DavidBowie.jpg",
+        "genre": "art rock"
     },
     {
         "title": "Wallsocket",
         "artist": "underscores",
         "discovered": 2024,
-        "image": "Wallsocket_underscores.jpg"
+        "image": "Wallsocket_underscores.jpg",
+        "genre": "indietronica"
     },
     {
         "title": "HALO",
         "artist": "Tiffany Day",
         "discovered": 2026,
-        "image": "HALO_TiffanyDay.jpg"
+        "image": "HALO_TiffanyDay.jpg",
+        "genre": "electropop"
     },
     {
         "title": "Kid A",
         "artist": "Radiohead",
         "discovered": 2015,
-        "image": "KidA_Radiohead.jpg"
+        "image": "KidA_Radiohead.jpg",
+        "genre": "art rock"
     },
     {
         "title": "Figure 8",
         "artist": "Elliott Smith",
         "discovered": 2016,
         "image": "Figure8_ElliottSmith.jpg",
+        "genre": "indie pop",
         "comment": "this was the first elliott record i listened to. i heard a recording of someone playing their cover of 'everything means nothing to me' on a blur forum back in the day and even just that little piano riff was so magnetic to me. so subsequently listening to the original song blew my mind. the rest of the album, and eventually elliott's whole discography, quickly became a love affair for me from then on.<br><br>i think about getting the figure 8 band as a tattoo sometimes but im still hesitant. part of me feels like tattooing a reference on yourself is defining yourself by other people and their art, not your own essence. and that's cringe. on the other hand, maybe im letting my fear of being cringe stop me from just doing a Nice Thing I'd Like To Do. and tbh being afraid of being cringe is more cringe than actually being cringe imo"
     },
     {
         "title": "Unhappy Refrain",
         "artist": "wowaka",
         "discovered": 2013,
-        "image": "UnhappyRefrain_wowaka.jpg"
+        "image": "UnhappyRefrain_wowaka.jpg",
+        "genre": "math pop"
     },
     {
         "title": "When the Pawn...",
         "artist": "Fiona Apple",
         "discovered": 2019,
-        "image": "WhenThePawn_FionaApple.jpg"
+        "image": "WhenThePawn_FionaApple.jpg",
+        "genre": "alternative pop"
     },
     {
         "title": "Pinback",
         "artist": "Pinback",
         "discovered": 2026,
-        "image": "Pinback_Pinback.jpg"
+        "image": "Pinback_Pinback.jpg",
+        "genre": "indie rock"
     },
     {
         "title": "No Dogs Allowed",
         "artist": "Sidney Gish",
         "discovered": 2018,
-        "image": "NoDogsAllowed_SidneyGish.jpg"
+        "image": "NoDogsAllowed_SidneyGish.jpg",
+        "genre": "twee pop"
     },
     {
         "title": "Ed Buys Houses",
         "artist": "Sidney Gish",
         "discovered": 2018,
-        "image": "EdBuysHouses_SidneyGish.jpg"
+        "image": "EdBuysHouses_SidneyGish.jpg",
+        "genre": "twee pop"
     },
     {
         "title": "Puberty 2",
         "artist": "Mitski",
         "discovered": 2016,
-        "image": "Puberty2_Mitski.jpg"
+        "image": "Puberty2_Mitski.jpg",
+        "genre": "indie rock"
     },
     {
         "title": "Illinois",
         "artist": "Sufjan Stevens",
         "discovered": 2018,
-        "image": "Illinois_SufjanStevens.jpg"
+        "image": "Illinois_SufjanStevens.jpg",
+        "genre": "chamber pop"
     },
     {
         "title": "SATURATION III",
         "artist": "BROCKHAMPTON",
         "discovered": 2019,
-        "image": "SATURATIONIII_BROCKHAMPTON.jpg"
+        "image": "SATURATIONIII_BROCKHAMPTON.jpg",
+        "genre": "pop rap"
     },
     {
         "title": "Midnight Marauders",
         "artist": "A Tribe Called Quest",
         "discovered": 2018,
-        "image": "MidnightMarauders_ATribeCalledQuest.jpg"
+        "image": "MidnightMarauders_ATribeCalledQuest.jpg",
+        "genre": "jazz rap"
     },
     {
-        "title": "The Specials",
+        "title": "Specials",
         "artist": "The Specials",
         "discovered": 2017,
-        "image": "TheSpecials_TheSpecials.jpg"
+        "image": "Specials_TheSpecials.jpg",
+        "genre": "ska revival"
     },
     {
-        "title": "Back To Black",
+        "title": "Back to Black",
         "artist": "Amy Winehouse",
         "discovered": 2010,
-        "image": "BackToBlack_AmyWinehouse.jpg"
+        "image": "BackToBlack_AmyWinehouse.jpg",
+        "genre": "pop soul"
     },
     {
         "title": "Since I Left You",
         "artist": "The Avalanches",
         "discovered": 2017,
-        "image": "SinceILeftYou_TheAvalanches.jpg"
+        "image": "SinceILeftYou_TheAvalanches.jpg",
+        "genre": "plunderphonics"
     },
     {
         "title": "If You're Feeling Sinister",
         "artist": "Belle & Sebastian",
         "discovered": 2021,
-        "image": "IfYoureFeelingSinister_BelleAndSebastian.jpg"
+        "image": "IfYoureFeelingSinister_BelleAndSebastian.jpg",
+        "genre": "chamber folk"
     },
     {
         "title": "Demon Days",
         "artist": "Gorillaz",
         "discovered": 2010,
-        "image": "DemonDays_Gorillaz.jpg"
+        "image": "DemonDays_Gorillaz.jpg",
+        "genre": "alternative hip hop"
     },
     {
         "title": "Twin Fantasy",
         "artist": "Car Seat Headrest",
         "discovered": 2018,
-        "image": "TwinFantasy_CarSeatHeadrest.jpg"
+        "image": "TwinFantasy_CarSeatHeadrest.jpg",
+        "genre": "slacker rock"
     },
     {
         "title": "Homogenic",
         "artist": "Björk",
         "discovered": 2018,
-        "image": "Homogenic_Bjork.jpg"
+        "image": "Homogenic_Bjork.jpg",
+        "genre": "art pop"
     },
     {
         "title": "I Can Hear The Heart Beating As One",
         "artist": "Yo La Tengo",
         "discovered": 2018,
-        "image": "ICanHearTheHeartBeatingAsOne_YoLaTengo.jpg"
+        "image": "ICanHearTheHeartBeatingAsOne_YoLaTengo.jpg",
+        "genre": "indie rock"
     },
     {
         "title": "A Lonely Sinner",
         "artist": "samlrc",
         "discovered": 2024,
-        "image": "ALonelySinner_samlrc.jpg"
+        "image": "ALonelySinner_samlrc.jpg",
+        "genre": "post-rock"
     },
     {
         "title": "Bleeds",
         "artist": "Wednesday",
         "discovered": 2025,
-        "image": "Bleeds_Wednesday.jpg"
+        "image": "Bleeds_Wednesday.jpg",
+        "genre": "slacker rock"
     },
     {
         "title": "Heavy Metal",
         "artist": "Cameron Winter",
         "discovered": 2025,
         "image": "HeavyMetal_CameronWinter.jpg",
+        "genre": "chamber folk",
         "comment": "cameron winter is this generation's nick drake, jeff buckley, elliott smith, bob dylan. and i'm sick of pretending he's not<br><br>these songs pluck your heartstrings so quietly and unsuspectingly that all of a sudden you're crying before you even know why. these lyrics are poetry"
     },
     {
         "title": "Getting Killed",
         "artist": "Geese",
         "discovered": 2026,
-        "image": "GettingKilled_Geese.jpg"
+        "image": "GettingKilled_Geese.jpg",
+        "genre": "indie rock"
     },
     {
         "title": "Car Button Cloth",
         "artist": "The Lemonheads",
         "discovered": 2014,
-        "image": "CarButtonCloth_TheLemonheads.jpg"
+        "image": "CarButtonCloth_TheLemonheads.jpg",
+        "genre": "alternative rock"
     },
     {
         "title": "13",
         "artist": "Blur",
         "discovered": 2017,
-        "image": "13_Blur.jpeg"
+        "image": "13_Blur.jpeg",
+        "genre": "art rock"
     },
     {
         "title": "Blur",
         "artist": "Blur",
         "discovered": 2017,
-        "image": "Blur_Blur.jpg"
+        "image": "Blur_Blur.jpg",
+        "genre": "alternative rock"
     },
     {
         "title": "Yoshimi Battles the Pink Robots",
         "artist": "The Flaming Lips",
         "discovered": 2017,
-        "image": "YoshimiBattlesThePinkRobots_TheFlamingLips.jpg"
+        "image": "YoshimiBattlesThePinkRobots_TheFlamingLips.jpg",
+        "genre": "psychedelic pop"
     },
     {
         "title": "Toxicity",
         "artist": "System Of A Down",
         "discovered": 2015,
-        "image": "Toxicity_SystemOfADown.jpg"
+        "image": "Toxicity_SystemOfADown.jpg",
+        "genre": "alternative metal"
     },
     {
         "title": "Mezmerize",
         "artist": "System Of A Down",
         "discovered": 2017,
-        "image": "Mezmerize_SystemOfADown.jpg"
+        "image": "Mezmerize_SystemOfADown.jpg",
+        "genre": "alternative metal"
     },
     {
         "title": "Abbey Road",
         "artist": "The Beatles",
         "discovered": 2013,
         "image": "AbbeyRoad_TheBeatles.jpg",
+        "genre": "pop rock",
         "comment": "my day one. 'sun king' thru to 'she came in thru the bathroom window' still a truly epochal run of bangers even all these years later"
     },
     {
         "title": "The College Dropout",
         "artist": "Kanye West",
         "discovered": 2021,
-        "image": "TheCollegeDropout_KanyeWest.jpg"
+        "image": "TheCollegeDropout_KanyeWest.jpg",
+        "genre": "pop rap"
     },
     {
         "title": "SOUL LADY",
         "artist": "YUKIKA",
         "discovered": 2022,
-        "image": "SOULLADY_YUKIKA.jpg"
+        "image": "SOULLADY_YUKIKA.jpg",
+        "genre": "city pop"
     },
     {
         "title": "For the first time",
         "artist": "Black Country, New Road",
         "discovered": 2023,
-        "image": "ForTheFirstTime_BlackCountryNewRoad.jpg"
+        "image": "ForTheFirstTime_BlackCountryNewRoad.jpg",
+        "genre": "post-rock"
     },
     {
         "title": "Ants From Up There",
         "artist": "Black Country, New Road",
         "discovered": 2022,
-        "image": "AntsFromUpThere_BlackCountryNewRoad.jpg"
+        "image": "AntsFromUpThere_BlackCountryNewRoad.jpg",
+        "genre": "chamber pop"
     },
     {
         "title": "I Love You Jennifer B",
         "artist": "Jockstrap",
         "discovered": 2023,
-        "image": "ILoveYouJenniferB_Jockstrap.jpg"
+        "image": "ILoveYouJenniferB_Jockstrap.jpg",
+        "genre": "glitch pop"
     },
     {
         "title": "Topical Dancer",
         "artist": "Charlotte Adigéry & Bolis Pupul",
         "discovered": 2022,
-        "image": "TopicalDancer_CharlotteAdigeryBolisPupul.jpg"
+        "image": "TopicalDancer_CharlotteAdigeryBolisPupul.jpg",
+        "genre": "art pop"
     },
     {
         "title": "Time Out",
         "artist": "The Dave Brubeck Quartet",
         "discovered": 2026,
-        "image": "TimeOut_DaveBrubeckQuartet.jpg"
+        "image": "TimeOut_DaveBrubeckQuartet.jpg",
+        "genre": "cool jazz"
     },
     {
         "title": "andymori",
         "artist": "andymori",
         "discovered": 2026,
-        "image": "andymori_andymori.jpg"
+        "image": "andymori_andymori.jpg",
+        "genre": "power pop"
     },
     {
         "title": "NO HANDS",
         "artist": "Joey Valence & Brae",
         "discovered": 2024,
-        "image": "NoHands_JoeyValenceAndBrae.jpg"
+        "image": "NoHands_JoeyValenceAndBrae.jpg",
+        "genre": "hardcore hip hop"
     },
     {
         "title": "3 Feet High and Rising",
         "artist": "De La Soul",
         "discovered": 2018,
-        "image": "3FeetHighAndRising_DeLaSoul.jpg"
+        "image": "3FeetHighAndRising_DeLaSoul.jpg",
+        "genre": "hip hop"
     },
     {
         "title": "The Normal Album",
         "artist": "Will Wood",
         "discovered": 2023,
         "image": "TheNormalAlbum_WillWood.jpg",
+        "genre": "dark cabaret",
         "comment": "wow! the trans guy likes will wood. water is wet<br><br>i really did fall in love with this album outside of a gender context though, haha. if you believe me. this album sounds like manaical musical theatre numbers on crack. will wood is a master of composition, romping piano riffs and spiky, puncturing horn sections. little hooks of his will burrow their way into your head for days<br><br>he calls his genre 'rat jazz' and i have to say i agree"
     },
     {
         "title": "I Love My Computer",
         "artist": "Ninajirachi",
         "discovered": 2026,
-        "image": "ILoveMyComputer_Ninajirachi.jpg"
+        "image": "ILoveMyComputer_Ninajirachi.jpg",
+        "genre": "electro house"
     },
     {
         "title": "Ramadan",
         "artist": "ee",
         "discovered": 2026,
-        "image": "Ramadan_ee.jpg"
+        "image": "Ramadan_ee.jpg",
+        "genre": "indie rock"
     },
     {
         "title": "Lupe Fiasco's Food & Liquor",
         "artist": "Lupe Fiasco",
         "discovered": 2026,
-        "image": "LupeFiascosFoodAndLiquor_LupeFiasco.jpg"
+        "image": "LupeFiascosFoodAndLiquor_LupeFiasco.jpg",
+        "genre": "hip hop"
     },
     {
         "title": "1000 gecs",
         "artist": "100 gecs",
         "discovered": 2020,
-        "image": "1000gecs_100gecs.jpg"
+        "image": "1000gecs_100gecs.jpg",
+        "genre": "hyperpop"
     },
     {
         "title": "City Slicker",
         "artist": "Ginger Root",
         "discovered": 2022,
-        "image": "CitySlicker_GingerRoot.jpg"
+        "image": "CitySlicker_GingerRoot.jpg",
+        "genre": "city pop"
     },
     {
         "title": "The Mollusk",
         "artist": "Ween",
         "discovered": 2018,
-        "image": "TheMollusk_Ween.jpg"
+        "image": "TheMollusk_Ween.jpg",
+        "genre": "alternative rock"
     },
     {
         "title": "Chocolate and Cheese",
         "artist": "Ween",
         "discovered": 2019,
-        "image": "ChocolateAndCheese_Ween.jpg"
+        "image": "ChocolateAndCheese_Ween.jpg",
+        "genre": "alternative rock"
     },
     {
         "title": "The Party",
         "artist": "Andy Shauf",
         "discovered": 2018,
-        "image": "TheParty_AndyShauf.jpg"
+        "image": "TheParty_AndyShauf.jpg",
+        "genre": "chamber pop"
     },
     {
         "title": "Death By Chocolate",
         "artist": "De-Phazz",
         "discovered": 2013,
-        "image": "DeathByChocolate_DePhazz.jpg"
+        "image": "DeathByChocolate_DePhazz.jpg",
+        "genre": "nu jazz"
     },
     {
         "title": "Spirit Phone",
         "artist": "Lemon Demon",
         "discovered": 2022,
-        "image": "SpiritPhone_LemonDemon.jpg"
+        "image": "SpiritPhone_LemonDemon.jpg",
+        "genre": "synthpop"
     },
     {
         "title": "Different Class",
         "artist": "Pulp",
         "discovered": 2018,
-        "image": "DifferentClass_Pulp.jpg"
+        "image": "DifferentClass_Pulp.jpg",
+        "genre": "britpop"
     },
     {
         "title": "Elastica",
         "artist": "Elastica",
         "discovered": 2017,
         "image": "Elastica_Elastica.jpg",
+        "genre": "britpop punk",
         "comment": "i had the biggest crush ever on justine frischmann. sooo androgynous... i couldn't tell if i wanted her to be my boyfriend or my girlfriend<br><br>solid album through and through. grungy punchy indie rock. no song overstays its welcome. great"
     },
     {
         "title": "Foxbase Alpha",
         "artist": "Saint Etienne",
         "discovered": 2017,
-        "image": "FoxbaseAlpha_SaintEtienne.jpg"
+        "image": "FoxbaseAlpha_SaintEtienne.jpg",
+        "genre": "alternative dance"
     },
     {
         "title": "Hellfire",
         "artist": "black midi",
         "discovered": 2022,
-        "image": "Hellfire_BlackMidi.jpg"
+        "image": "Hellfire_BlackMidi.jpg",
+        "genre": "experimental prog rock"
     },
     {
         "title": "Massive Shoe",
         "artist": "Way Dynamic",
         "discovered": 2026,
-        "image": "MassiveShoe_WayDynamic.jpg"
+        "image": "MassiveShoe_WayDynamic.jpg",
+        "genre": "soft rock"
     },
     {
         "title": "Thunder, Lightning, Strike",
         "artist": "The Go! Team",
         "discovered": 2022,
         "image": "ThunderLightningStrike_TheGoTeam.jpg",
+        "genre": "plunderphonics",
         "comment": "this album is the same genre as the amazing world of gumball theme song. in the best way possible"
     },
     {
         "title": "Mezzanine",
         "artist": "Massive Attack",
         "discovered": 2020,
-        "image": "Mezzanine_MassiveAttack.jpg"
+        "image": "Mezzanine_MassiveAttack.jpg",
+        "genre": "trip hop"
     },
     {
         "title": "The Soft Bulletin",
         "artist": "The Flaming Lips",
         "discovered": 2018,
-        "image": "TheSoftBulletin_TheFlamingLips.jpg"
+        "image": "TheSoftBulletin_TheFlamingLips.jpg",
+        "genre": "neo-psychedelia"
     },
     {
         "title": "Volcano",
         "artist": "Jungle",
         "discovered": 2023,
-        "image": "Volcano_Jungle.jpg"
+        "image": "Volcano_Jungle.jpg",
+        "genre": "nu disco"
     },
     {
         "title": "IGOR",
         "artist": "Tyler, The Creator",
         "discovered": 2020,
-        "image": "Igor_TylerTheCreator.jpg"
+        "image": "Igor_TylerTheCreator.jpg",
+        "genre": "neo-soul"
     },
     {
         "title": "You Will Never Know Why",
         "artist": "Sweet Trip",
         "discovered": 2022,
-        "image": "YouWillNeverKnowWhy_SweetTrip.jpg"
+        "image": "YouWillNeverKnowWhy_SweetTrip.jpg",
+        "genre": "dream pop"
     },
     {
         "title": "Flower Boy",
         "artist": "Tyler, The Creator",
         "discovered": 2019,
-        "image": "FlowerBoy_TylerTheCreator.jpg"
+        "image": "FlowerBoy_TylerTheCreator.jpg",
+        "genre": "hip hop"
     },
     {
         "title": "Future Me Hates Me",
         "artist": "The Beths",
         "discovered": 2019,
-        "image": "FutureMeHatesMe_TheBeths.jpg"
+        "image": "FutureMeHatesMe_TheBeths.jpg",
+        "genre": "indie rock"
     },
     {
         "title": "The Score",
         "artist": "Fugees",
         "discovered": 2018,
-        "image": "TheScore_Fugees.jpg"
+        "image": "TheScore_Fugees.jpg",
+        "genre": "hip hop"
     },
     {
         "title": "Titanic Rising",
         "artist": "Weyes Blood",
         "discovered": 2020,
-        "image": "TitanicRising_WeyesBlood.jpg"
+        "image": "TitanicRising_WeyesBlood.jpg",
+        "genre": "baroque pop"
     },
     {
         "title": "Whatever And Ever Amen",
         "artist": "Ben Folds Five",
         "discovered": 2023,
-        "image": "WhateverAndEverAmen_BenFoldsFive.jpg"
+        "image": "WhateverAndEverAmen_BenFoldsFive.jpg",
+        "genre": "piano rock"
     },
     {
         "title": "Flood",
         "artist": "They Might Be Giants",
         "discovered": 2017,
         "image": "Flood_TheyMightBeGiants.jpg",
+        "genre": "geek rock",
         "comment": "i was introduced to TMBG by my high school science teacher. he played both their 'the sun is a mass of incandescent gas' as well as their sheepishly corrective 'the sun is a miasma of incandescent plasma' one day in class, for our astronomy module or something. i got the vibe the rest of the class thought it was kinda lame but i thought it slapped. the next week, i found Flood in the public library and gave it a listen.<br><br>you were great mr dixon. i remember doodling a goofy caricature of you in class, my friends and i were snickering at it. you came over to check out the fuss. i was so embarrassed. how offensive! but you said it was great, you asked if you could 'confiscate' it and put it up in your office.<br><br>it was still there when i came to say my goodbyes to you on the last day of year 13. you were a fantastic teacher. i hope you're having a wonderful life, wherever you are"
     },
     {
         "title": "Tommy airline",
         "artist": "Tommy february6",
         "discovered": 2026,
-        "image": "TommyAirline_TommyFebruary6.jpg"
+        "image": "TommyAirline_TommyFebruary6.jpg",
+        "genre": "synthpop"
     },
     {
         "title": "Imaginal Disk",
         "artist": "Magdalena Bay",
         "discovered": 2024,
-        "image": "ImaginalDisk_MagdalenaBay.jpg"
+        "image": "ImaginalDisk_MagdalenaBay.jpg",
+        "genre": "neo-psychedelia"
     },
     {
         "title": "Philharmony",
         "artist": "Haruomi Hosono",
         "discovered": 2025,
-        "image": "Philharmony_HaruomiHosono.jpg"
+        "image": "Philharmony_HaruomiHosono.jpg",
+        "genre": "synthpop"
     },
     {
         "title": "Violent Femmes",
         "artist": "Violent Femmes",
         "discovered": 2018,
-        "image": "ViolentFemmes_ViolentFemmes.jpg"
+        "image": "ViolentFemmes_ViolentFemmes.jpg",
+        "genre": "folk punk"
     },
     {
         "title": "Electro-Shock Blues",
         "artist": "Eels",
         "discovered": 2017,
         "image": "ElectroshockBlues_Eels.jpg",
+        "genre": "indie pop",
         "comment": "i have really distinct memories of this one. my girlfriend at the time was in the psych ward, which was out in the middle of buttfuck nowhere.<br><br>i would take the train out to the facility to visit her after school most days, and i'd listen to this album on the train. on the way back too, sometimes. it would be dark when i left.<br><br>thinking back, i think this album portrays that sort of chronic inescapable mental unwellness some of us are just born with in a really heartbreaking, almost angry way. which maybe overlaps with themes in my life at that time.<br><br>sometimes i wonder how she's doing these days. we never spoke again after we broke up."
     },
     {
         "title": "Yankee Hotel Foxtrot",
         "artist": "Wilco",
         "discovered": 2016,
-        "image": "YankeeHotelFoxtrot_Wilco.jpg"
+        "image": "YankeeHotelFoxtrot_Wilco.jpg",
+        "genre": "indie rock"
     },
     {
         "title": "Crumbling",
         "artist": "Mid-Air Thief",
         "discovered": 2020,
-        "image": "Crumbling_MidAirThief.jpg"
+        "image": "Crumbling_MidAirThief.jpg",
+        "genre": "psychedelic folk"
     },
     {
         "title": "Doll Online",
         "artist": "Clark Rainbow",
         "discovered": 2026,
         "image": "DollOnline_ClarkRainbow.jpg",
+        "genre": "electropop",
         "comment": "frikkin love this one!!! so fun!! double quadruple dips sooo indulgently into 2010 internet vibes. those of us up late watching AMVs and nightcore versions of songs and accidentally installing malware on mum and dad's PC know whats up"
     },
     {
         "title": "House of Sugar",
         "artist": "Alex G",
         "discovered": 2020,
-        "image": "HouseOfSugar_AlexG.jpg"
+        "image": "HouseOfSugar_AlexG.jpg",
+        "genre": "indie folk"
     },
     {
         "title": "volcanic bird enemy and the voiced concern",
         "artist": "Lil Ugly Mane",
         "discovered": 2023,
-        "image": "VolcanicBirdEnemyAndTheVoicedConcern_LilUglyMane.jpg"
+        "image": "VolcanicBirdEnemyAndTheVoicedConcern_LilUglyMane.jpg",
+        "genre": "neo-psychedelia"
     },
     {
         "title": "PANDEMIC",
         "artist": "THREEE",
         "discovered": 2023,
         "image": "PANDEMIC_THREEE.jpg",
+        "genre": "j-pop",
         "tags": ["upbeat", "bouncy", "fawnky", "vocaloid", "electronic"]
     },
     {
@@ -518,202 +602,235 @@
         "artist": "Queen",
         "discovered": 2010,
         "image": "ANightAtTheOpera_Queen.jpg",
+        "genre": "art rock",
         "tags": ["classic", "rock", "theatrical"]
     },
     {
         "title": "This Is a Long Drive for Someone with Nothing to Think About",
         "artist": "Modest Mouse",
         "discovered": 2023,
-        "image": "ThisIsALongDrive_ModestMouse.jpg"
+        "image": "ThisIsALongDrive_ModestMouse.jpg",
+        "genre": "indie rock"
     },
     {
         "title": "Troupeau bleu",
         "artist": "Cortex",
         "discovered": 2021,
-        "image": "TroupeauBleu_Cortex.jpg"
+        "image": "TroupeauBleu_Cortex.jpg",
+        "genre": "jazz funk"
     },
     {
         "title": "Circles",
         "artist": "Mac Miller",
         "discovered": 2022,
-        "image": "Circles_MacMiller.jpg"
+        "image": "Circles_MacMiller.jpg",
+        "genre": "neo-soul"
     },
     {
         "title": "OK Computer",
         "artist": "Radiohead",
         "discovered": 2016,
-        "image": "OKComputer_Radiohead.jpg"
+        "image": "OKComputer_Radiohead.jpg",
+        "genre": "alternative rock"
     },
     {
         "title": "Parklife",
         "artist": "Blur",
         "discovered": 2016,
-        "image": "Parklife_Blur.jpg"
+        "image": "Parklife_Blur.jpg",
+        "genre": "britpop"
     },
     {
         "title": "WORRY.",
         "artist": "Jeff Rosenstock",
         "discovered": 2022,
-        "image": "Worry_JeffRosenstock.jpg"
+        "image": "Worry_JeffRosenstock.jpg",
+        "genre": "pop punk"
     },
     {
         "title": "Ooh Rap I Ya",
         "artist": "George Clanton",
         "discovered": 2026,
-        "image": "OohRapIYa_GeorgeClanton.jpg"
+        "image": "OohRapIYa_GeorgeClanton.jpg",
+        "genre": "chillwave"
     },
     {
         "title": "Bury Me at Makeout Creek",
         "artist": "Mitski",
         "discovered": 2017,
-        "image": "BuryMeAtMakeoutCreek_Mitski.jpg"
+        "image": "BuryMeAtMakeoutCreek_Mitski.jpg",
+        "genre": "indie rock"
     },
     {
         "title": "ITEKOMA HITS",
         "artist": "Otoboke Beaver",
         "discovered": 2023,
-        "image": "ItekomaHits_OtobokeBeaver.jpg"
+        "image": "ItekomaHits_OtobokeBeaver.jpg",
+        "genre": "hardcore punk"
     },
     {
         "title": "Either/Or",
         "artist": "Elliott Smith",
         "discovered": 2016,
-        "image": "EitherOr_ElliottSmith.jpg"
+        "image": "EitherOr_ElliottSmith.jpg",
+        "genre": "indie folk"
     },
     {
         "title": "Colour Green",
         "artist": "Sibylle Baier",
         "discovered": 2024,
-        "image": "ColourGreen_SibylleBaier.jpg"
+        "image": "ColourGreen_SibylleBaier.jpg",
+        "genre": "folk"
     },
     {
         "title": "I Don't Hate You",
         "artist": "Ogbert the Nerd",
         "discovered": 2022,
-        "image": "IDontHateYou_OgbertTheNerd.jpg"
+        "image": "IDontHateYou_OgbertTheNerd.jpg",
+        "genre": "midwest emo"
     },
     {
         "title": "TILT",
         "artist": "NANORAY",
         "discovered": 2022,
-        "image": "Tilt_Nanoray.jpg"
+        "image": "Tilt_Nanoray.jpg",
+        "genre": "breakcore"
     },
     {
         "title": "SAWAYAMA",
         "artist": "Rina Sawayama",
         "discovered": 2022,
-        "image": "Sawayama_RinaSawayama.jpg"
+        "image": "Sawayama_RinaSawayama.jpg",
+        "genre": "dance pop"
     },
     {
         "title": "C3L3STIAL天の",
         "artist": "bliss3three",
         "discovered": 2022,
         "image": "Celestial_bliss3three.jpg",
+        "genre": "vaporwave",
         "tags": ["trippy", "lo-fi", "ethereal", "instrumental"]
     },
     {
         "title": "Gorillaz",
         "artist": "Gorillaz",
         "discovered": 2018,
-        "image": "Gorillaz_Gorillaz.jpg"
+        "image": "Gorillaz_Gorillaz.jpg",
+        "genre": "trip hop"
     },
     {
         "title": "the first glass beach album",
         "artist": "glass beach",
         "discovered": 2022,
-        "image": "TheFirstGlassBeachAlbum_GlassBeach.jpg"
+        "image": "TheFirstGlassBeachAlbum_GlassBeach.jpg",
+        "genre": "indie rock"
     },
     {
         "title": "Hospice",
         "artist": "The Antlers",
         "discovered": 2018,
-        "image": "Hospice_TheAntlers.jpg"
+        "image": "Hospice_TheAntlers.jpg",
+        "genre": "indie rock"
     },
     {
         "title": "Swimmer",
         "artist": "Tennis",
         "discovered": 2022,
-        "image": "Swimmer_Tennis.jpg"
+        "image": "Swimmer_Tennis.jpg",
+        "genre": "indie pop"
     },
     {
         "title": "Transfiguration Of Vincent",
         "artist": "M. Ward",
         "discovered": 2020,
-        "image": "TransfigurationOfVincent_MWard.jpg"
+        "image": "TransfigurationOfVincent_MWard.jpg",
+        "genre": "folk"
     },
     {
         "title": "Emergency & I",
         "artist": "Dismemberment Plan",
         "discovered": 2023,
-        "image": "EmergencyAndI_TheDismembermentPlan.jpg"
+        "image": "EmergencyAndI_TheDismembermentPlan.jpg",
+        "genre": "indie rock"
     },
     {
         "title": "Stereotype A",
         "artist": "Cibo Matto",
         "discovered": 2019,
-        "image": "StereoTypeA_CiboMatto.jpg"
+        "image": "StereoTypeA_CiboMatto.jpg",
+        "genre": "alternative dance"
     },
     {
         "title": "Viva! La Woman",
         "artist": "Cibo Matto",
         "discovered": 2019,
-        "image": "VivaLaWoman_CiboMatto.jpg"
+        "image": "VivaLaWoman_CiboMatto.jpg",
+        "genre": "art pop"
     },
     {
         "title": "Bar Mediterraneo",
         "artist": "Nu Genea",
         "discovered": 2026,
         "image": "BarMediterraneo_NuGenea.jpg",
+        "genre": "nu disco",
         "comment": "i got recommended this one by a friend doing some Actual Real Life IRL crate diggin (would you believe). it's like background music, but peak tier background music. instant tropical holiday cosplay"
     },
     {
         "title": "Grace",
         "artist": "Jeff Buckley",
         "discovered": 2020,
-        "image": "Grace_JeffBuckley.jpg"
+        "image": "Grace_JeffBuckley.jpg",
+        "genre": "alternative rock"
     },
     {
         "title": "Mogwai Young Team",
         "artist": "Mogwai",
         "discovered": 2017,
-        "image": "MogwaiYoungTeam_Mogwai.jpg"
+        "image": "MogwaiYoungTeam_Mogwai.jpg",
+        "genre": "post-rock"
     },
     {
         "title": "How to Leave Town",
         "artist": "Car Seat Headrest",
         "discovered": 2021,
-        "image": "HowToLeaveTown_CarSeatHeadrest.jpg"
+        "image": "HowToLeaveTown_CarSeatHeadrest.jpg",
+        "genre": "slacker rock"
     },
     {
         "title": "Monomania",
         "artist": "Car Seat Headrest",
         "discovered": 2020,
-        "image": "Monomania_CarSeatHeadrest.jpg"
+        "image": "Monomania_CarSeatHeadrest.jpg",
+        "genre": "slacker rock"
     },
     {
         "title": "The Age of Adz",
         "artist": "Sufjan Stevens",
         "discovered": 2010,
-        "image": "TheAgeOfAdz_SufjanStevens.jpg"
+        "image": "TheAgeOfAdz_SufjanStevens.jpg",
+        "genre": "art pop"
     },
     {
         "title": "Vespertine",
         "artist": "Bjork",
         "discovered": 2018,
         "image": "Vespertine_Bjork.jpg",
+        "genre": "art pop",
         "comment": "beautiful glittery album. just gorgeous. literally sounds like a glass christmas ornament.<br><br>randomly i had a weird couple months as a teenager where i couldn't get to sleep unless i was listening to frosti on repeat. not even one of the proper songs off the album. the damn interlude"
     },
     {
         "title": "To Pimp A Butterfly",
         "artist": "Kendrick Lamar",
         "discovered": 2020,
-        "image": "ToPimpAButterfly_KendrickLamar.jpg"
+        "image": "ToPimpAButterfly_KendrickLamar.jpg",
+        "genre": "hip hop"
     },
     {
         "title": "Marvin The Album",
         "artist": "Frente!",
         "discovered": 2009,
         "image": "MarvinTheAlbum_Frente.jpg",
+        "genre": "twee pop",
         "comment": "we had this on casette for car listening when i was a kid. even now i have fond memories of it. our copy had their cover of bizarre love triangle as a bonus, which honestly is canon over the original to me personally. yes, over new order! i know. sorry but that's how i feel."
     },
     {
@@ -721,6 +838,7 @@
         "artist": "Cheap Trick",
         "discovered": 2017,
         "image": "HeavenTonight_CheapTrick.jpg",
+        "genre": "hard rock",
         "comment": "my dad loves this album. and i guess for that reason i do, too"
     },
     {
@@ -728,25 +846,29 @@
         "artist": "Television",
         "discovered": 2017,
         "image": "MarqueeMoon_Television.jpg",
+        "genre": "art punk",
         "comment": "my poser ass was listening to marquee moon way before i was able to appreciate it.<br><br>oh you're 16 and you would genuinely rather listen to a 10+ minute long mostly instrumental unconventional art punk track (where the lead singer isn't even really singing so much as suggesting at a melody occasionally) over the latest nicki minaj? suuuuure.<br><br>pretending to get it made me feel so superior"
     },
     {
         "title": "REDSTAR WU & THE WORLDWIDE SCOURGE",
         "artist": "Genesis Owusu",
         "discovered": 2026,
-        "image": "RedstarWuAndTheWorldwideScourge_GenesisOwusu.jpg"
+        "image": "RedstarWuAndTheWorldwideScourge_GenesisOwusu.jpg",
+        "genre": "neo-soul"
     },
     {
         "title": "Chet Baker Sings",
         "artist": "Chet Baker",
         "discovered": 2020,
-        "image": "ChetBakerSings_ChetBaker.jpg"
+        "image": "ChetBakerSings_ChetBaker.jpg",
+        "genre": "jazz"
     },
     {
         "title": "SEYCHELLES",
         "artist": "Masayoshi Takanaka",
         "discovered": 2025,
         "image": "Seychelles_MasayoshiTakanaka.jpg",
+        "genre": "jazz fusion",
         "comment": "one listen of this and u realise life can in fact be tengo suerte"
     },
     {
@@ -754,6 +876,7 @@
         "artist": "Akiko Yano",
         "discovered": 2024,
         "image": "AiGaNakuchaNe_AkikoYano.jpg",
+        "genre": "art pop",
         "comment": "i have heard she has better albums but this is the one ive listened to and i like it god dammit"
     },
     {
@@ -761,6 +884,7 @@
         "artist": "Lamp",
         "discovered": 2021,
         "image": "ForLovers_Lamp.jpg",
+        "genre": "jazz pop",
         "comment": "quintessential listen for romance and yearning enjoyers"
     },
     {
@@ -768,105 +892,122 @@
         "artist": "Sheena Ringo",
         "discovered": 2021,
         "image": "KalkSamenKuriNoHana_SheenaRingo.jpg",
+        "genre": "art pop",
         "comment": "bjork if she was japanese and also slapped harder. just insane orchestral compositional shit goin on here"
     },
     {
         "title": "This Year's Model",
         "artist": "Elvis Costello",
         "discovered": 2018,
-        "image": "ThisYearsModel_ElvisCostello.jpg"
+        "image": "ThisYearsModel_ElvisCostello.jpg",
+        "genre": "pop rock"
     },
     {
         "title": "Station to Station",
         "artist": "David Bowie",
         "discovered": 2019,
         "image": "StationToStation_DavidBowie.jpg",
+        "genre": "art rock",
         "comment": "bowie earning his title as edgemaster supreme by how hard i bust when the kick finally hits at two minutes into the first track. and then he keeps draggin that fat beat out sexual style. you know you're gonna be in for a ride"
     },
     {
         "title": "Endtroducing.....",
         "artist": "DJ Shadow",
         "discovered": 2018,
-        "image": "Endtroducing_DJShadow.jpg"
+        "image": "Endtroducing_DJShadow.jpg",
+        "genre": "plunderphonics"
     },
     {
         "title": "Rubber Soul",
         "artist": "The Beatles",
         "discovered": 2020,
         "image": "RubberSoul_TheBeatles.jpg",
+        "genre": "pop rock",
         "comment": "it actually took me a while to get around to listening to this one. i didn't give it a spin until i was in uni. was really sleeping on it which is crazy considering the nick drake folkglazer that i am"
     },
     {
         "title": "Pink Moon",
         "artist": "Nick Drake",
         "discovered": 2020,
-        "image": "PinkMoon_NickDrake.jpg"
+        "image": "PinkMoon_NickDrake.jpg",
+        "genre": "folk"
     },
     {
         "title": "Transient",
         "artist": "Gaelle",
         "discovered": 2026,
-        "image": "Transient_Gaelle.jpg"
+        "image": "Transient_Gaelle.jpg",
+        "genre": "contemporary R&B"
     },
     {
         "title": "Quebec",
         "artist": "Ween",
         "discovered": 2020,
         "image": "Quebec_Ween.jpg",
+        "genre": "art rock",
         "comment": "truly ween at their best. my god. love their classics but they rlly peaked here"
     },
     {
         "title": "KIDS SEE GHOSTS",
         "artist": "KIDS SEE GHOSTS",
         "discovered": 2022,
-        "image": "KidsSeeGhosts_KidsSeeGhosts.jpg"
+        "image": "KidsSeeGhosts_KidsSeeGhosts.jpg",
+        "genre": "pop rap"
     },
     {
         "title": "The Electric Lady",
         "artist": "Janelle Monáe",
         "discovered": 2019,
-        "image": "TheElectricLady_JanelleMonae.jpg"
+        "image": "TheElectricLady_JanelleMonae.jpg",
+        "genre": "contemporary R&B"
     },
     {
         "title": "Some Things Just Stick In Your Mind",
         "artist": "Vashti Bunyan",
         "discovered": 2021,
-        "image": "SomeThingsJustStickInYourMind_VashtiBunyan.jpg"
+        "image": "SomeThingsJustStickInYourMind_VashtiBunyan.jpg",
+        "genre": "folk pop"
     },
     {
         "title": "Sam's Town",
         "artist": "The Killers",
         "discovered": 2022,
-        "image": "SamsTown_TheKillers.jpg"
+        "image": "SamsTown_TheKillers.jpg",
+        "genre": "pop rock"
     },
     {
         "title": "Stankonia",
         "artist": "Outkast",
         "discovered": 2024,
-        "image": "Stankonia_Outkast.jpg"
+        "image": "Stankonia_Outkast.jpg",
+        "genre": "hip hop"
     },
     {
         "title": "Teens of Denial",
         "artist": "Car Seat Headrest",
         "discovered": 2019,
-        "image": "TeensOfDenial_CarSeatHeadrest.jpg"
+        "image": "TeensOfDenial_CarSeatHeadrest.jpg",
+        "genre": "indie rock"
     },
     {
         "title": "Isolation",
         "artist": "Kali Uchis",
         "discovered": 2022,
-        "image": "Isolation_KaliUchis.jpg"
+        "image": "Isolation_KaliUchis.jpg",
+        "genre": "neo-soul"
     },
     {
         "title": "Seven Swans",
         "artist": "Sufjan Stevens",
         "discovered": 2022,
-        "image": "SevenSwans_SufjanStevens.jpg"
+        "image": "SevenSwans_SufjanStevens.jpg",
+        "genre": "indie folk"
     },
     {
         "title": "I Want To See Pulaski At Night",
         "artist": "Andrew Bird",
         "discovered": 2026,
-        "image": "IWantToSeePulaskiAtNight_AndrewBird.jpg"
+        "image": "IWantToSeePulaskiAtNight_AndrewBird.jpg",
+        "genre": "chamber folk"
     }
 ]
