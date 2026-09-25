@@ -3,678 +3,857 @@
         "title": "Roman Candle",
         "artist": "Elliott Smith",
         "discovered": 2016,
-        "tags": ["quiet", ""]
+        "image": "RomanCandle_ElliottSmith.jpeg"
     },
     {
         "title": "Vanisher, Horizon Scraper",
         "artist": "Quadeca",
-        "discovered": 2025
+        "discovered": 2025,
+        "image": "VanisherHorizonScraper_Quadeca.jpeg"
     },
     {
         "title": "Low",
         "artist": "David Bowie",
-        "discovered": 2018
+        "discovered": 2018,
+        "image": "Low_DavidBowie.jpg"
     },
     {
         "title": "Wallsocket",
-        "artist": "Underscores",
-        "discovered": 2024
+        "artist": "underscores",
+        "discovered": 2024,
+        "image": "Wallsocket_underscores.jpg"
     },
     {
         "title": "HALO",
         "artist": "Tiffany Day",
-        "discovered": 2026
+        "discovered": 2026,
+        "image": "HALO_TiffanyDay.jpg"
     },
     {
         "title": "Kid A",
         "artist": "Radiohead",
-        "discovered": 2015
+        "discovered": 2015,
+        "image": "KidA_Radiohead.jpg"
     },
     {
         "title": "Figure 8",
         "artist": "Elliott Smith",
-        "discovered": 2015
+        "discovered": 2016,
+        "image": "Figure8_ElliottSmith.jpg",
+        "comment": "this was the first elliott record i listened to. i heard a recording of someone playing their tabbed version of 'everything means nothing to me' on a blur forum back in the day and even just that little piano riff was so magnetic to me. so subsequently listening to the original song blew my mind. the rest of the album, and eventually elliott's whole discography, quickly became a love affair for me from then on.<br><br>i think about getting the figure 8 band as a tattoo sometimes but im still hesitant. part of me feels like tattooing a reference on yourself is defining yourself by other people and their art, not your own essence. on the other hand, maybe im letting my fear of being pretentious stop me, and being afraid of being pretentious is worse than actually being pretentious imo"
     },
     {
         "title": "Unhappy Refrain",
         "artist": "wowaka",
-        "discovered": 2013
+        "discovered": 2013,
+        "image": "UnhappyRefrain_wowaka.jpg"
     },
     {
         "title": "When the Pawn...",
         "artist": "Fiona Apple",
-        "discovered": 2019
+        "discovered": 2019,
+        "image": "WhenThePawn_FionaApple.jpg"
     },
     {
         "title": "Pinback",
         "artist": "Pinback",
-        "discovered": 2026
+        "discovered": 2026,
+        "image": "Pinback_Pinback.jpg"
     },
     {
         "title": "No Dogs Allowed",
         "artist": "Sidney Gish",
-        "discovered": 2017
+        "discovered": 2018,
+        "image": "NoDogsAllowed_SidneyGish.jpg"
+    },
+    {
+        "title": "Ed Buys Houses",
+        "artist": "Sidney Gish",
+        "discovered": 2018,
+        "image": "EdBuysHouses_SidneyGish.jpg"
     },
     {
         "title": "Puberty 2",
         "artist": "Mitski",
-        "discovered": 2016
+        "discovered": 2016,
+        "image": "Puberty2_Mitski.jpg"
     },
     {
         "title": "Illinois",
         "artist": "Sufjan Stevens",
-        "discovered": 2018
+        "discovered": 2018,
+        "image": "Illinois_SufjanStevens.jpg"
     },
     {
         "title": "SATURATION III",
         "artist": "BROCKHAMPTON",
-        "discovered": 2019
+        "discovered": 2019,
+        "image": "SATURATIONIII_BROCKHAMPTON.jpg"
     },
     {
         "title": "Midnight Marauders",
         "artist": "A Tribe Called Quest",
-        "discovered": 2018
+        "discovered": 2018,
+        "image": "MidnightMarauders_ATribeCalledQuest.jpg"
     },
     {
         "title": "The Specials",
         "artist": "The Specials",
-        "discovered": 2017
+        "discovered": 2017,
+        "image": "TheSpecials_TheSpecials.jpg"
     },
     {
         "title": "Back To Black",
         "artist": "Amy Winehouse",
-        "discovered": 2010
+        "discovered": 2010,
+        "image": "BackToBlack_AmyWinehouse.jpg"
     },
     {
         "title": "Since I Left You",
         "artist": "The Avalanches",
-        "discovered": 2017
+        "discovered": 2017,
+        "image": "SinceILeftYou_TheAvalanches.jpg"
     },
     {
         "title": "If You're Feeling Sinister",
         "artist": "Belle & Sebastian",
-        "discovered": 2021
+        "discovered": 2021,
+        "image": "IfYoureFeelingSinister_BelleAndSebastian.jpg"
     },
     {
         "title": "Demon Days",
         "artist": "Gorillaz",
-        "discovered": 2010
+        "discovered": 2010,
+        "image": "DemonDays_Gorillaz.jpg"
     },
     {
         "title": "Twin Fantasy",
         "artist": "Car Seat Headrest",
-        "discovered": 2018
+        "discovered": 2018,
+        "image": "TwinFantasy_CarSeatHeadrest.jpg"
     },
     {
         "title": "Homogenic",
         "artist": "Björk",
-        "discovered": 2018
+        "discovered": 2018,
+        "image": "Homogenic_Bjork.jpg"
     },
     {
         "title": "I Can Hear The Heart Beating As One",
         "artist": "Yo La Tengo",
-        "discovered": 2018
+        "discovered": 2018,
+        "image": "ICanHearTheHeartBeatingAsOne_YoLaTengo.jpg"
     },
     {
         "title": "A Lonely Sinner",
         "artist": "samlrc",
-        "discovered": 2024
+        "discovered": 2024,
+        "image": "ALonelySinner_samlrc.jpg"
     },
     {
         "title": "Bleeds",
         "artist": "Wednesday",
-        "discovered": 2025
+        "discovered": 2025,
+        "image": "Bleeds_Wednesday.jpg"
     },
     {
         "title": "Heavy Metal",
         "artist": "Cameron Winter",
-        "discovered": 2025
+        "discovered": 2025,
+        "image": "HeavyMetal_CameronWinter.jpg"
     },
     {
         "title": "Getting Killed",
         "artist": "Geese",
-        "discovered": 2026
+        "discovered": 2026,
+        "image": "GettingKilled_Geese.jpg"
     },
     {
         "title": "Car Button Cloth",
         "artist": "The Lemonheads",
-        "discovered": 2014
+        "discovered": 2014,
+        "image": "CarButtonCloth_TheLemonheads.jpg"
     },
     {
         "title": "13",
         "artist": "Blur",
-        "discovered": 2018
+        "discovered": 2017,
+        "image": "13_Blur.jpeg"
     },
     {
         "title": "Blur",
         "artist": "Blur",
-        "discovered": 2018
+        "discovered": 2017,
+        "image": "Blur_Blur.jpg"
     },
     {
         "title": "Yoshimi Battles the Pink Robots",
         "artist": "The Flaming Lips",
-        "discovered": 2017
+        "discovered": 2017,
+        "image": "YoshimiBattlesThePinkRobots_TheFlamingLips.jpg"
     },
     {
         "title": "Toxicity",
         "artist": "System Of A Down",
-        "discovered": 2015
+        "discovered": 2015,
+        "image": "Toxicity_SystemOfADown.jpg"
     },
     {
         "title": "Mezmerize",
         "artist": "System Of A Down",
-        "discovered": 2017
+        "discovered": 2017,
+        "image": "Mezmerize_SystemOfADown.jpg"
     },
     {
         "title": "Abbey Road",
         "artist": "The Beatles",
         "discovered": 2013,
+        "image": "AbbeyRoad_TheBeatles.jpg",
         "comment": "my day one. 'sun king' thru to 'she came in thru the bathroom window' still a truly epochal run of bangers even all these years later"
     },
     {
         "title": "The College Dropout",
         "artist": "Kanye West",
-        "discovered": 2021
+        "discovered": 2021,
+        "image": "TheCollegeDropout_KanyeWest.jpg"
     },
     {
         "title": "SOUL LADY",
         "artist": "YUKIKA",
-        "discovered": 2022
+        "discovered": 2022,
+        "image": "SOULLADY_YUKIKA.jpg"
     },
     {
         "title": "For the first time",
         "artist": "Black Country, New Road",
-        "discovered": 2023
+        "discovered": 2023,
+        "image": "ForTheFirstTime_BlackCountryNewRoad.jpg"
     },
     {
         "title": "Ants From Up There",
         "artist": "Black Country, New Road",
-        "discovered": 2022
+        "discovered": 2022,
+        "image": "AntsFromUpThere_BlackCountryNewRoad.jpg"
     },
     {
         "title": "I Love You Jennifer B",
         "artist": "Jockstrap",
-        "discovered": 2023
+        "discovered": 2023,
+        "image": "ILoveYouJenniferB_Jockstrap.jpg"
     },
     {
         "title": "Topical Dancer",
         "artist": "Charlotte Adigéry & Bolis Pupul",
-        "discovered": 2022
+        "discovered": 2022,
+        "image": "TopicalDancer_CharlotteAdigeryBolisPupul.jpg"
     },
     {
         "title": "Time Out",
         "artist": "The Dave Brubeck Quartet",
-        "discovered": 2026
+        "discovered": 2026,
+        "image": "TimeOut_DaveBrubeckQuartet.jpg"
     },
     {
         "title": "andymori",
         "artist": "andymori",
-        "discovered": 2026
+        "discovered": 2026,
+        "image": "andymori_andymori.jpg"
     },
     {
         "title": "NO HANDS",
         "artist": "Joey Valence & Brae",
-        "discovered": 2024
+        "discovered": 2024,
+        "image": "NoHands_JoeyValenceAndBrae.jpg"
     },
     {
         "title": "3 Feet High and Rising",
         "artist": "De La Soul",
-        "discovered": 2018
+        "discovered": 2018,
+        "image": "3FeetHighAndRising_DeLaSoul.jpg"
     },
     {
         "title": "The Normal Album",
         "artist": "Will Wood",
         "discovered": 2023,
-        "comment": "will wood calls his genre 'rat jazz' and i have to say i agree"
+        "image": "TheNormalAlbum_WillWood.jpg",
+        "comment": "wow! the trans guy likes will wood. water is wet<br><br>will wood calls his genre 'rat jazz' and i have to say i agree"
     },
     {
         "title": "I Love My Computer",
-        "artist": "Niniajirachi",
-        "discovered": 2026
+        "artist": "Ninajirachi",
+        "discovered": 2026,
+        "image": "ILoveMyComputer_Ninajirachi.jpg"
     },
     {
         "title": "Ramadan",
         "artist": "ee",
-        "discovered": 2026
+        "discovered": 2026,
+        "image": "Ramadan_ee.jpg"
     },
     {
         "title": "Lupe Fiasco's Food & Liquor",
         "artist": "Lupe Fiasco",
-        "discovered": 2026
+        "discovered": 2026,
+        "image": "LupeFiascosFoodAndLiquor_LupeFiasco.jpg"
     },
     {
         "title": "1000 gecs",
         "artist": "100 gecs",
-        "discovered": 2020
+        "discovered": 2020,
+        "image": "1000gecs_100gecs.jpg"
     },
     {
         "title": "City Slicker",
         "artist": "Ginger Root",
-        "discovered": 2022
+        "discovered": 2022,
+        "image": "CitySlicker_GingerRoot.jpg"
     },
     {
         "title": "The Mollusk",
         "artist": "Ween",
-        "discovered": 2018
+        "discovered": 2018,
+        "image": "TheMollusk_Ween.jpg"
     },
     {
         "title": "Chocolate and Cheese",
         "artist": "Ween",
-        "discovered": 2019
+        "discovered": 2019,
+        "image": "ChocolateAndCheese_Ween.jpg"
     },
     {
-        "title": "Andy Shauf",
-        "artist": "The Party",
-        "discovered": 2018
+        "title": "The Party",
+        "artist": "Andy Shauf",
+        "discovered": 2018,
+        "image": "TheParty_AndyShauf.jpg"
     },
     {
         "title": "Death By Chocolate",
         "artist": "De-Phazz",
-        "discovered": 2016
+        "discovered": 2013,
+        "image": "DeathByChocolate_DePhazz.jpg"
     },
     {
         "title": "Spirit Phone",
         "artist": "Lemon Demon",
-        "discovered": 2022
+        "discovered": 2022,
+        "image": "SpiritPhone_LemonDemon.jpg"
     },
     {
         "title": "Different Class",
         "artist": "Pulp",
-        "discovered": 2018
+        "discovered": 2018,
+        "image": "DifferentClass_Pulp.jpg"
     },
     {
         "title": "Elastica",
         "artist": "Elastica",
-        "discovered": 2017
+        "discovered": 2017,
+        "image": "Elastica_Elastica.jpg",
+        "comment": "i had the biggest crush ever on justine frischmann. sooo androgynous... i couldn't tell if i wanted her to be my boyfriend or my girlfriend<br><br>solid album through and through. grungy punchy indie rock. no song overstays its welcome. great"
     },
     {
         "title": "Foxbase Alpha",
         "artist": "Saint Etienne",
-        "discovered": 2017
+        "discovered": 2017,
+        "image": "FoxbaseAlpha_SaintEtienne.jpg"
     },
     {
         "title": "Hellfire",
         "artist": "black midi",
-        "discovered": 2022
+        "discovered": 2022,
+        "image": "Hellfire_BlackMidi.jpg"
     },
     {
         "title": "Massive Shoe",
         "artist": "Way Dynamic",
-        "discovered": 2026
+        "discovered": 2026,
+        "image": "MassiveShoe_WayDynamic.jpg"
     },
     {
-        "title": "Thunder, Lightning, Go!",
+        "title": "Thunder, Lightning, Strike",
         "artist": "The Go! Team",
-        "discovered": 2022
+        "discovered": 2022,
+        "image": "ThunderLightningStrike_TheGoTeam.jpg",
+        "comment": "this album is the same genre as the amazing world of gumball theme song in the best way possible"
     },
     {
         "title": "Mezzanine",
         "artist": "Massive Attack",
-        "discovered": 2020
+        "discovered": 2020,
+        "image": "Mezzanine_MassiveAttack.jpg"
     },
     {
         "title": "The Soft Bulletin",
         "artist": "The Flaming Lips",
-        "discovered": 2018
+        "discovered": 2018,
+        "image": "TheSoftBulletin_TheFlamingLips.jpg"
     },
     {
         "title": "Volcano",
         "artist": "Jungle",
-        "discovered": 2023
+        "discovered": 2023,
+        "image": "Volcano_Jungle.jpg"
     },
     {
         "title": "IGOR",
         "artist": "Tyler, The Creator",
-        "discovered": 2020
+        "discovered": 2020,
+        "image": "Igor_TylerTheCreator.jpg"
     },
     {
         "title": "You Will Never Know Why",
         "artist": "Sweet Trip",
-        "discovered": 2022
+        "discovered": 2022,
+        "image": "YouWillNeverKnowWhy_SweetTrip.jpg"
     },
     {
         "title": "Flower Boy",
         "artist": "Tyler, The Creator",
-        "discovered": 2019
+        "discovered": 2019,
+        "image": "FlowerBoy_TylerTheCreator.jpg"
     },
     {
         "title": "Future Me Hates Me",
         "artist": "The Beths",
-        "discovered": 2019
+        "discovered": 2019,
+        "image": "FutureMeHatesMe_TheBeths.jpg"
     },
     {
         "title": "The Score",
         "artist": "Fugees",
-        "discovered": 2018
+        "discovered": 2018,
+        "image": "TheScore_Fugees.jpg"
     },
     {
         "title": "Titanic Rising",
         "artist": "Weyes Blood",
-        "discovered": 2020
+        "discovered": 2020,
+        "image": "TitanicRising_WeyesBlood.jpg"
     },
     {
         "title": "Whatever And Ever Amen",
         "artist": "Ben Folds Five",
-        "discovered": 2023
+        "discovered": 2023,
+        "image": "WhateverAndEverAmen_BenFoldsFive.jpg"
     },
     {
         "title": "Flood",
         "artist": "They Might Be Giants",
-        "discovered": 2019
-    },
-    {
-        "title": "Station To Station",
-        "artist": "David Bowie",
-        "discovered": 2019
+        "discovered": 2017,
+        "image": "Flood_TheyMightBeGiants.jpg",
+        "comment": "i was introduced to TMBG by my high school science teacher. he played both their 'the sun is a mass of incandescent gas' as well as their sheepishly corrective 'the sun is a miasma of incandescent plasma' one day in class, for our astronomy module or something. i got the vibe the rest of the class thought it was kinda lame but i thought it slapped. the next week, i found Flood in the public library and gave it a listen.<br><br>you were great mr dixon. i remember doodling a goofy caricature of you in class, my friends and i were snickering at it. you came over to check out the fuss. i was so embarrassed. how offensive! but you said it was great, you asked if you could 'confiscate' it and put it up in your office.<br><br>it was still there when i came to say my goodbyes to you on the last day of year 13. you were a fantastic teacher. i hope you're having a wonderful life, wherever you are"
     },
     {
         "title": "Tommy airline",
         "artist": "Tommy february6",
-        "discovered": 2026
+        "discovered": 2026,
+        "image": "TommyAirline_TommyFebruary6.jpg"
     },
     {
         "title": "Imaginal Disk",
         "artist": "Magdalena Bay",
-        "discovered": 2024
+        "discovered": 2024,
+        "image": "ImaginalDisk_MagdalenaBay.jpg"
     },
     {
         "title": "Philharmony",
         "artist": "Haruomi Hosono",
-        "discovered": 2025
+        "discovered": 2025,
+        "image": "Philharmony_HaruomiHosono.jpg"
     },
     {
         "title": "Violent Femmes",
         "artist": "Violent Femmes",
-        "discovered": 2018
+        "discovered": 2018,
+        "image": "ViolentFemmes_ViolentFemmes.jpg"
     },
     {
         "title": "Electro-Shock Blues",
         "artist": "Eels",
         "discovered": 2017,
-        "comment": "i have really distinct memories of this one. my girlfriend at the time was in the psych ward. it was out in buttfuck nowhere. i used to listen to this one on the train out to the facility to visit her. on the way back too, sometimes. it would be dark when i left. sometimes i wonder how she's doing."
+        "image": "ElectroshockBlues_Eels.jpg",
+        "comment": "i have really distinct memories of this one. my girlfriend at the time was in the psych ward, which was out in the middle of buttfuck nowhere.<br><br>i would take the train out to the facility to visit her after school most days, and i'd listen to this album on the train. on the way back too, sometimes. it would be dark when i left.<br><br>thinking back, i think this album portrays that sort of chronic inescapable mental unwellness some of us are just born with in a really heartbreaking, almost angry way. which maybe overlaps with themes in my life at that time.<br><br>sometimes i wonder how she's doing these days. we never spoke again after we broke up."
     },
     {
         "title": "Yankee Hotel Foxtrot",
         "artist": "Wilco",
-        "discovered": 2016
+        "discovered": 2016,
+        "image": "YankeeHotelFoxtrot_Wilco.jpg"
     },
     {
-        "title": "무너지기 (Crumbling)",
+        "title": "Crumbling",
         "artist": "Mid-Air Thief",
-        "discovered": 2020
+        "discovered": 2020,
+        "image": "Crumbling_MidAirThief.jpg"
     },
     {
         "title": "Doll Online",
         "artist": "Clark Rainbow",
-        "discovered": 2026
+        "discovered": 2026,
+        "image": "DollOnline_ClarkRainbow.jpg",
+        "comment": "frikkin love this one!!! so fun!! double quadruple dips sooo indulgently into 2010 internet vibes. those of us up late watching AMVs and nightcore versions of songs and accidentally installing malware on mum and dad's PC know whats up"
     },
     {
         "title": "House of Sugar",
         "artist": "Alex G",
-        "discovered": 2020
+        "discovered": 2020,
+        "image": "HouseOfSugar_AlexG.jpg"
     },
     {
         "title": "volcanic bird enemy and the voiced concern",
         "artist": "Lil Ugly Mane",
-        "discovered": 2023
+        "discovered": 2023,
+        "image": "VolcanicBirdEnemyAndTheVoicedConcern_LilUglyMane.jpg"
     },
     {
         "title": "PANDEMIC",
         "artist": "THREEE",
         "discovered": 2023,
+        "image": "PANDEMIC_THREEE.jpg",
         "tags": ["upbeat", "bouncy", "fawnky", "vocaloid", "electronic"]
     },
     {
         "title": "A Night At The Opera",
         "artist": "Queen",
         "discovered": 2010,
+        "image": "ANightAtTheOpera_Queen.jpg",
         "tags": ["classic", "rock", "theatrical"]
     },
     {
         "title": "This Is a Long Drive for Someone with Nothing to Think About",
         "artist": "Modest Mouse",
-        "discovered": 2023
+        "discovered": 2023,
+        "image": "ThisIsALongDrive_ModestMouse.jpg"
     },
     {
         "title": "Troupeau bleu",
         "artist": "Cortex",
-        "discovered": 2021
+        "discovered": 2021,
+        "image": "TroupeauBleu_Cortex.jpg"
     },
     {
         "title": "Circles",
         "artist": "Mac Miller",
-        "discovered": 2022
+        "discovered": 2022,
+        "image": "Circles_MacMiller.jpg"
     },
     {
         "title": "OK Computer",
         "artist": "Radiohead",
-        "discovered": 2016
+        "discovered": 2016,
+        "image": "OKComputer_Radiohead.jpg"
     },
     {
         "title": "Parklife",
         "artist": "Blur",
-        "discovered": 2016
+        "discovered": 2016,
+        "image": "Parklife_Blur.jpg"
     },
     {
         "title": "WORRY.",
         "artist": "Jeff Rosenstock",
-        "discovered": 2022
+        "discovered": 2022,
+        "image": "Worry_JeffRosenstock.jpg"
     },
     {
         "title": "Ooh Rap I Ya",
         "artist": "George Clanton",
-        "discovered": 2026
+        "discovered": 2026,
+        "image": "OohRapIYa_GeorgeClanton.jpg"
     },
     {
         "title": "Bury Me at Makeout Creek",
         "artist": "Mitski",
-        "discovered": 2017
+        "discovered": 2017,
+        "image": "BuryMeAtMakeoutCreek_Mitski.jpg"
     },
     {
         "title": "ITEKOMA HITS",
         "artist": "Otoboke Beaver",
-        "discovered": 2023
+        "discovered": 2023,
+        "image": "ItekomaHits_OtobokeBeaver.jpg"
     },
     {
         "title": "Either/Or",
         "artist": "Elliott Smith",
-        "discovered": 2015
+        "discovered": 2016,
+        "image": "EitherOr_ElliottSmith.jpg"
     },
     {
         "title": "Colour Green",
         "artist": "Sibylle Baier",
-        "discovered": 2024
+        "discovered": 2024,
+        "image": "ColourGreen_SibylleBaier.jpg"
     },
     {
         "title": "I Don't Hate You",
         "artist": "Ogbert the Nerd",
-        "discovered": 2022
+        "discovered": 2022,
+        "image": "IDontHateYou_OgbertTheNerd.jpg"
     },
     {
         "title": "TILT",
         "artist": "NANORAY",
-        "discovered": 2022
+        "discovered": 2022,
+        "image": "Tilt_Nanoray.jpg"
     },
     {
         "title": "SAWAYAMA",
         "artist": "Rina Sawayama",
-        "discovered": 2022
+        "discovered": 2022,
+        "image": "Sawayama_RinaSawayama.jpg"
     },
     {
         "title": "C3L3STIAL天の",
         "artist": "bliss3three",
         "discovered": 2022,
+        "image": "Celestial_bliss3three.jpg",
         "tags": ["trippy", "lo-fi", "ethereal", "instrumental"]
     },
     {
         "title": "Gorillaz",
         "artist": "Gorillaz",
-        "discovered": 2018
+        "discovered": 2018,
+        "image": "Gorillaz_Gorillaz.jpg"
     },
     {
         "title": "the first glass beach album",
         "artist": "glass beach",
-        "discovered": 2022
+        "discovered": 2022,
+        "image": "TheFirstGlassBeachAlbum_GlassBeach.jpg"
     },
     {
         "title": "Hospice",
         "artist": "The Antlers",
-        "discovered": 2018
+        "discovered": 2018,
+        "image": "Hospice_TheAntlers.jpg"
     },
     {
         "title": "Swimmer",
         "artist": "Tennis",
-        "discovered": 2022
+        "discovered": 2022,
+        "image": "Swimmer_Tennis.jpg"
     },
     {
         "title": "Transfiguration Of Vincent",
         "artist": "M. Ward",
-        "discovered": 2020
+        "discovered": 2020,
+        "image": "TransfigurationOfVincent_MWard.jpg"
     },
     {
         "title": "Emergency & I",
         "artist": "Dismemberment Plan",
-        "discovered": 2023
+        "discovered": 2023,
+        "image": "EmergencyAndI_TheDismembermentPlan.jpg"
     },
     {
         "title": "Stereotype A",
         "artist": "Cibo Matto",
-        "discovered": 2019
+        "discovered": 2019,
+        "image": "StereoTypeA_CiboMatto.jpg"
     },
     {
         "title": "Viva! La Woman",
         "artist": "Cibo Matto",
-        "discovered": 2019
+        "discovered": 2019,
+        "image": "VivaLaWoman_CiboMatto.jpg"
     },
     {
         "title": "Bar Mediterraneo",
         "artist": "Nu Genea",
         "discovered": 2026,
+        "image": "BarMediterraneo_NuGenea.jpg",
         "comment": "i got recommended this one by a friend doing some Actual Real Life IRL crate diggin (would you believe). it's like background music, but peak tier background music. instant tropical holiday cosplay"
     },
     {
         "title": "Grace",
         "artist": "Jeff Buckley",
-        "discovered": 2020
+        "discovered": 2020,
+        "image": "Grace_JeffBuckley.jpg"
     },
     {
         "title": "Mogwai Young Team",
         "artist": "Mogwai",
-        "discovered": 2017
+        "discovered": 2017,
+        "image": "MogwaiYoungTeam_Mogwai.jpg"
     },
     {
         "title": "How to Leave Town",
         "artist": "Car Seat Headrest",
-        "discovered": 2021
+        "discovered": 2021,
+        "image": "HowToLeaveTown_CarSeatHeadrest.jpg"
     },
     {
         "title": "Monomania",
         "artist": "Car Seat Headrest",
-        "discovered": 2020
+        "discovered": 2020,
+        "image": "Monomania_CarSeatHeadrest.jpg"
     },
     {
         "title": "The Age of Adz",
         "artist": "Sufjan Stevens",
-        "discovered": 2010
+        "discovered": 2010,
+        "image": "TheAgeOfAdz_SufjanStevens.jpg"
     },
     {
         "title": "Vespertine",
         "artist": "Bjork",
         "discovered": 2018,
-        "comment": "beautiful glittery album. just gorgeous. literally sounds like a glass christmas ornament. randomly i had a weird couple months as a teenager where i couldn't get to sleep unless i was listening to frosti on repeat. not even one of the proper songs off the album. the damn interlude"
+        "image": "Vespertine_Bjork.jpg",
+        "comment": "beautiful glittery album. just gorgeous. literally sounds like a glass christmas ornament.<br><br>randomly i had a weird couple months as a teenager where i couldn't get to sleep unless i was listening to frosti on repeat. not even one of the proper songs off the album. the damn interlude"
     },
     {
         "title": "To Pimp A Butterfly",
         "artist": "Kendrick Lamar",
-        "discovered": 2020
+        "discovered": 2020,
+        "image": "ToPimpAButterfly_KendrickLamar.jpg"
     },
     {
         "title": "Marvin The Album",
         "artist": "Frente!",
         "discovered": 2009,
+        "image": "MarvinTheAlbum_Frente.jpg",
         "comment": "we had this on casette for car listening when i was a kid. even now i have fond memories of it. our copy had their cover of bizarre love triangle as a bonus, which honestly is canon over the original to me personally. over new order! i know. sorry but that's how i feel."
     },
     {
         "title": "Heaven Tonight",
         "artist": "Cheap Trick",
         "discovered": 2017,
+        "image": "HeavenTonight_CheapTrick.jpg",
         "comment": "my dad loves this album. and i guess for that reason i do, too"
     },
     {
         "title": "Marquee Moon",
         "artist": "Television",
-        "discovered": 2018,
-        "comment": "my pretentious ass was listening to this way before i was able to appreciate it. pretending to get it made me feel so superior"
+        "discovered": 2017,
+        "image": "MarqueeMoon_Television.jpg",
+        "comment": "my poser ass was listening to marquee moon way before i was able to appreciate it.<br><br>oh you're 16 and you would genuinely rather listen to a 10+ minute long mostly instrumental unconventional art punk track (where the lead singer isnt even really singing so much as suggesting at a melody occasionally) over the latest nicki minaj? suuuuure.<br><br>pretending to get it made me feel so superior"
     },
     {
         "title": "REDSTAR WU & THE WORLDWIDE SCOURGE",
         "artist": "Genesis Owusu",
-        "discovered": 2026
+        "discovered": 2026,
+        "image": "RedstarWuAndTheWorldwideScourge_GenesisOwusu.jpg"
     },
     {
         "title": "Chet Baker Sings",
         "artist": "Chet Baker",
-        "discovered": 2020
+        "discovered": 2020,
+        "image": "ChetBakerSings_ChetBaker.jpg"
     },
     {
         "title": "SEYCHELLES",
         "artist": "Masayoshi Takanaka",
         "discovered": 2025,
+        "image": "Seychelles_MasayoshiTakanaka.jpg",
         "comment": "one listen of this and u realise life can in fact be tengo suerte"
     },
     {
         "title": "Ai ga nakucha ne.",
         "artist": "Akiko Yano",
         "discovered": 2024,
+        "image": "AiGaNakuchaNe_AkikoYano.jpg",
         "comment": "i have heard she has better albums but this is the one ive listened to and i like it god dammit"
     },
     {
         "title": "For Lovers",
         "artist": "Lamp",
-        "discovered": 2021
+        "discovered": 2021,
+        "image": "ForLovers_Lamp.jpg",
+        "comment": "quintessential listen for romance and yearning enjoyers"
     },
     {
-        "title": "Kalk Samen Chestnut Flower",
+        "title": "Kalk Samen Kuri no Hana",
         "artist": "Sheena Ringo",
         "discovered": 2021,
+        "image": "KalkSamenKuriNoHana_SheenaRingo.jpg",
         "comment": "bjork if she was japanese and also slapped harder. just insane orchestral compositional shit goin on here"
     },
     {
         "title": "This Year's Model",
         "artist": "Elvis Costello",
-        "discovered": 2018
+        "discovered": 2018,
+        "image": "ThisYearsModel_ElvisCostello.jpg"
     },
     {
         "title": "Station to Station",
         "artist": "David Bowie",
         "discovered": 2019,
-        "comment": "bowie earning his title as edgemaster supreme by how hard i bust when the kick finally kicks in at two minutes into the first track. and then he keeps draggin that fat beat out sexual style. you know you're gonna be in for a ride"
+        "image": "StationToStation_DavidBowie.jpg",
+        "comment": "bowie earning his title as edgemaster supreme by how hard i bust when the kick finally hits at two minutes into the first track. and then he keeps draggin that fat beat out sexual style. you know you're gonna be in for a ride"
     },
     {
         "title": "Endtroducing.....",
         "artist": "DJ Shadow",
-        "discovered": 2018
+        "discovered": 2018,
+        "image": "Endtroducing_DJShadow.jpg"
     },
     {
         "title": "Rubber Soul",
         "artist": "The Beatles",
         "discovered": 2020,
-        "comment": "it actually took me a while to get around to listening to this one. i didn't give it a spin until i was in uni. was really sleeping on it especially as the nick drake folkglazer that i am"
+        "image": "RubberSoul_TheBeatles.jpg",
+        "comment": "it actually took me a while to get around to listening to this one. i didn't give it a spin until i was in uni. was really sleeping on it which is crazy considering the nick drake folkglazer that i am"
     },
     {
         "title": "Pink Moon",
         "artist": "Nick Drake",
-        "discovered": 2020
+        "discovered": 2020,
+        "image": "PinkMoon_NickDrake.jpg"
     },
     {
         "title": "Transient",
         "artist": "Gaelle",
-        "discovered": 2026
+        "discovered": 2026,
+        "image": "Transient_Gaelle.jpg"
     },
     {
         "title": "Quebec",
         "artist": "Ween",
+        "discovered": 2020,
+        "image": "Quebec_Ween.jpg",
+        "comment": "truly ween at their best. my god. love their classics but they rlly peaked here"
+    },
+    {
+        "title": "KIDS SEE GHOSTS",
+        "artist": "KIDS SEE GHOSTS",
+        "discovered": 2022,
+        "image": "KidsSeeGhosts_KidsSeeGhosts.jpg"
+    },
+    {
+        "title": "The Electric Lady",
+        "artist": "Janelle Monáe",
+        "discovered": 2019,
+        "image": "TheElectricLady_JanelleMonae.jpg"
+    },
+    {
+        "title": "Some Things Just Stick In Your Mind",
+        "artist": "Vashti Bunyan",
         "discovered": 2021,
-        "comment": "truly ween at their weeniest. my god. love their classics but they rlly peaked here"
+        "image": "SomeThingsJustStickInYourMind_VashtiBunyan.jpg"
+    },
+    {
+        "title": "Sam's Town",
+        "artist": "The Killers",
+        "discovered": 2022,
+        "image": "SamsTown_TheKillers.jpg"
+    },
+    {
+        "title": "Stankonia",
+        "artist": "Outkast",
+        "discovered": 2024,
+        "image": "Stankonia_Outkast.jpg"
+    },
+    {
+        "title": "Teens of Denial",
+        "artist": "Car Seat Headrest",
+        "discovered": 2019,
+        "image": "TeensOfDenial_CarSeatHeadrest.jpg"
+    },
+    {
+        "title": "Isolation",
+        "artist": "Kali Uchis",
+        "discovered": 2022,
+        "image": "Isolation_KaliUchis.jpg"
     }
 ]

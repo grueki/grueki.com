@@ -5,8 +5,8 @@
         <script type="text/javascript" src="./digger.js"></script>
         <script>siteWrapper(
             `
-            <p>oh nice. you made it to my album collection. feel free to take a look</p>
-            <button onclick="dig()">go diggin</button>
+            <p>oh nice. you made it to my record collection. feel free to take a look</p>
+            <button id="dig-button" onclick="dig()">go diggin</button>
             <div class="record-case-outer">
                 <div class="record-case">
                     <div id="all-records">
@@ -37,12 +37,13 @@
                             <div class="record-sleeve ten"></div>
                             <div class="record-sleeve eleven"></div>
                             <div class="record-sleeve twelve"></div>
-                            <div class="record-sleeve thirteen"></div>
+                            <div class="thirteen final"></div>
                         </div>
                     </div>
+                    <div id="final-record" class="final"></div>
                 </div>
             </div>
-            <p id="album-name"></p>
+            <p class="album-info" id="album-info"></p>
             `,
             "crate-diggin/crate-diggin"
         );</script>

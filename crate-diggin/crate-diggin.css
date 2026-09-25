@@ -1,8 +1,13 @@
+.album-info {
+    text-align: center;
+    height: 200px;
+    max-width: 1000px;
+}
+
 .record-case-outer {
     padding: 20px;
     background-color: aliceblue;
     margin-top: 20px;
-    
 }
 
 .record-case {
@@ -14,16 +19,8 @@
 }
 
 .all-records {
-    animation: recordScroll 2s cubic-bezier(0, 0, 0, 0.8) 1;
+    animation: recordScroll 2s cubic-bezier(0, 0, 0, 1) 1;
     animation-fill-mode: forwards;
-}
-
-.record-sleeve {
-    height: 200px;
-    width: 200px;
-    grid-row-start: 1;
-    grid-column-start: 1;
-    box-shadow: 0 -10px 20px rgba(0, 0, 0, 0.5);
 }
 
 .record-stack {
@@ -34,69 +31,73 @@
     height: 480px;
 }
 
+.record-sleeve {
+    height: 200px;
+    width: 200px;
+    grid-row-start: 1;
+    grid-column-start: 1;
+    box-shadow: 0 -10px 20px black;
+}
+
 .one {
     margin-top: 0px;
-    background-color: pink;
 }
 
 .two {
     margin-top: 40px;
-    background-color: red;
 }
 
 .three {
     margin-top: 80px;
-    background-color: orange;
 }
 
 .four {
     margin-top: 120px;
-    background-color: yellow;
 }
 
 .five {
     margin-top: 160px;
-    background-color: chartreuse;
 }
 
 .six {
     margin-top: 200px;
-    background-color: green;
 }
 
 .seven {
     margin-top: 240px;
-    background-color: turquoise;
 }
 
 .eight {
     margin-top: 280px;
-    background-color: skyblue;
 }
 
 .nine {
     margin-top: 320px;
-    background-color: blue;
 }
 
 .ten {
     margin-top: 360px;
-    background-color: blueviolet;
 }
 
 .eleven {
     margin-top: 400px;
-    background-color: violet;
 }
 
 .twelve {
     margin-top: 440px;
-    background-color: hotpink;
 }
 
 .thirteen {
     margin-top: 480px;
-    background-color: black;
+}
+
+.final {
+    z-index: 999;
+    height: 200px;
+    width: 200px;
+    grid-row-start: 1;
+    grid-column-start: 1;
+    box-shadow: 0 -10px 20px black;
 }
 
 @keyframes recordScroll {
