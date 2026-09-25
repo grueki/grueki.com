@@ -1,5 +1,14 @@
+var generated = [];
+
 function getRandomInt(max) {
-  return Math.floor(Math.random() * max);
+  var num = Math.floor(Math.random() * max);
+
+  while (generated.includes(num)) {
+    num = Math.floor(Math.random() * max);
+  }
+
+  generated.push(num);
+  return num
 }
 
 const wait = (ms) => new Promise(resolve => setTimeout(resolve, ms));
@@ -11,11 +20,13 @@ window.addEventListener('load', async () => {
   const records = [...document.getElementsByClassName("record-sleeve")];
 
   records.forEach(element => {
-    element.style.backgroundImage = "url(./record-img/" + albums[getRandomInt(albums.length)].image + ")";
+    var num = getRandomInt(albums.length);
+    element.style.backgroundImage = "url(./record-img/" + albums[num].image + ")";
   });
 });
 
 async function dig() {
+  generated = [];
   var json = await fetch('./records.json');
   var albums = await json.json();
   var albumToDisplay = getRandomInt(albums.length);

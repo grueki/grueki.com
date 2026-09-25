@@ -40,7 +40,7 @@
         "artist": "Elliott Smith",
         "discovered": 2016,
         "image": "Figure8_ElliottSmith.jpg",
-        "comment": "this was the first elliott record i listened to. i heard a recording of someone playing their tabbed version of 'everything means nothing to me' on a blur forum back in the day and even just that little piano riff was so magnetic to me. so subsequently listening to the original song blew my mind. the rest of the album, and eventually elliott's whole discography, quickly became a love affair for me from then on.<br><br>i think about getting the figure 8 band as a tattoo sometimes but im still hesitant. part of me feels like tattooing a reference on yourself is defining yourself by other people and their art, not your own essence. on the other hand, maybe im letting my fear of being pretentious stop me, and being afraid of being pretentious is worse than actually being pretentious imo"
+        "comment": "this was the first elliott record i listened to. i heard a recording of someone playing their cover of 'everything means nothing to me' on a blur forum back in the day and even just that little piano riff was so magnetic to me. so subsequently listening to the original song blew my mind. the rest of the album, and eventually elliott's whole discography, quickly became a love affair for me from then on.<br><br>i think about getting the figure 8 band as a tattoo sometimes but im still hesitant. part of me feels like tattooing a reference on yourself is defining yourself by other people and their art, not your own essence. and that's cringe. on the other hand, maybe im letting my fear of being cringe stop me from just doing a Nice Thing I'd Like To Do. and tbh being afraid of being cringe is more cringe than actually being cringe imo"
     },
     {
         "title": "Unhappy Refrain",
@@ -160,7 +160,8 @@
         "title": "Heavy Metal",
         "artist": "Cameron Winter",
         "discovered": 2025,
-        "image": "HeavyMetal_CameronWinter.jpg"
+        "image": "HeavyMetal_CameronWinter.jpg",
+        "comment": "cameron winter is this generation's nick drake, jeff buckley, elliott smith, bob dylan. and i'm sick of pretending he's not<br><br>these songs pluck your heartstrings so quietly and unsuspectingly that all of a sudden you're crying before you even know why. these lyrics are poetry"
     },
     {
         "title": "Getting Killed",
@@ -276,7 +277,7 @@
         "artist": "Will Wood",
         "discovered": 2023,
         "image": "TheNormalAlbum_WillWood.jpg",
-        "comment": "wow! the trans guy likes will wood. water is wet<br><br>will wood calls his genre 'rat jazz' and i have to say i agree"
+        "comment": "wow! the trans guy likes will wood. water is wet<br><br>i really did fall in love with this album outside of a gender context though, haha. if you believe me. this album sounds like manaical musical theatre numbers on crack. will wood is a master of composition, romping piano riffs and spiky, puncturing horn sections. little hooks of his will burrow their way into your head for days<br><br>he calls his genre 'rat jazz' and i have to say i agree"
     },
     {
         "title": "I Love My Computer",
@@ -374,7 +375,7 @@
         "artist": "The Go! Team",
         "discovered": 2022,
         "image": "ThunderLightningStrike_TheGoTeam.jpg",
-        "comment": "this album is the same genre as the amazing world of gumball theme song in the best way possible"
+        "comment": "this album is the same genre as the amazing world of gumball theme song. in the best way possible"
     },
     {
         "title": "Mezzanine",
@@ -713,7 +714,7 @@
         "artist": "Frente!",
         "discovered": 2009,
         "image": "MarvinTheAlbum_Frente.jpg",
-        "comment": "we had this on casette for car listening when i was a kid. even now i have fond memories of it. our copy had their cover of bizarre love triangle as a bonus, which honestly is canon over the original to me personally. over new order! i know. sorry but that's how i feel."
+        "comment": "we had this on casette for car listening when i was a kid. even now i have fond memories of it. our copy had their cover of bizarre love triangle as a bonus, which honestly is canon over the original to me personally. yes, over new order! i know. sorry but that's how i feel."
     },
     {
         "title": "Heaven Tonight",
@@ -727,7 +728,7 @@
         "artist": "Television",
         "discovered": 2017,
         "image": "MarqueeMoon_Television.jpg",
-        "comment": "my poser ass was listening to marquee moon way before i was able to appreciate it.<br><br>oh you're 16 and you would genuinely rather listen to a 10+ minute long mostly instrumental unconventional art punk track (where the lead singer isnt even really singing so much as suggesting at a melody occasionally) over the latest nicki minaj? suuuuure.<br><br>pretending to get it made me feel so superior"
+        "comment": "my poser ass was listening to marquee moon way before i was able to appreciate it.<br><br>oh you're 16 and you would genuinely rather listen to a 10+ minute long mostly instrumental unconventional art punk track (where the lead singer isn't even really singing so much as suggesting at a melody occasionally) over the latest nicki minaj? suuuuure.<br><br>pretending to get it made me feel so superior"
     },
     {
         "title": "REDSTAR WU & THE WORLDWIDE SCOURGE",
@@ -855,5 +856,17 @@
         "artist": "Kali Uchis",
         "discovered": 2022,
         "image": "Isolation_KaliUchis.jpg"
+    },
+    {
+        "title": "Seven Swans",
+        "artist": "Sufjan Stevens",
+        "discovered": 2022,
+        "image": "SevenSwans_SufjanStevens.jpg"
+    },
+    {
+        "title": "I Want To See Pulaski At Night",
+        "artist": "Andrew Bird",
+        "discovered": 2026,
+        "image": "IWantToSeePulaskiAtNight_AndrewBird.jpg"
     }
 ]
