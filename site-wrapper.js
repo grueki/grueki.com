@@ -27,7 +27,7 @@ function siteWrapper(content, stylesheet) {
                     </ul>
                 </div>
 
-                <div class="main-content">
+                <div class="main-content" id="main-content">
     `
     + content +
     `           </div>

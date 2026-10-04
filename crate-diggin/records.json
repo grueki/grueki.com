@@ -47,7 +47,7 @@
         "discovered": 2016,
         "image": "Figure8_ElliottSmith.jpg",
         "genre": "indie pop",
-        "comment": "this was the first elliott record i listened to. i heard a recording of someone playing their cover of 'everything means nothing to me' on a blur forum back in the day and even just that little piano riff was so magnetic to me. so subsequently listening to the original song blew my mind. the rest of the album, and eventually elliott's whole discography, quickly became a love affair for me from then on.<br><br>i think about getting the figure 8 band as a tattoo sometimes but im still hesitant. part of me feels like tattooing a reference on yourself is defining yourself by other people and their art, not your own essence. and that's cringe. on the other hand, maybe im letting my fear of being cringe stop me from just doing a Nice Thing I'd Like To Do. and tbh being afraid of being cringe is more cringe than actually being cringe imo"
+        "comment": "this was the first elliott record i listened to. i heard a recording of someone playing their cover of 'everything means nothing to me' on a blur forum back in the day and even just that little piano riff was so magnetic to me. so subsequently listening to the original song blew my mind. the rest of the album, and eventually elliott's whole discography, quickly became a love affair for me from then on.<br><br>i think about getting the figure 8 band as a tattoo sometimes but im still hesitant. part of me feels like tattooing a reference on yourself is defining yourself by other people and their art, not your own essence. and that's cringe. on the other hand, maybe im letting my fear of being cringe stop me from just doing a Nice Thing I'd Like To Do. and is being afraid of being cringe more cringe than actually being cringe?"
     },
     {
         "title": "Unhappy Refrain",
@@ -515,7 +515,7 @@
         "discovered": 2017,
         "image": "Flood_TheyMightBeGiants.jpg",
         "genre": "geek rock",
-        "comment": "i was introduced to TMBG by my high school science teacher. he played both their 'the sun is a mass of incandescent gas' as well as their sheepishly corrective 'the sun is a miasma of incandescent plasma' one day in class, for our astronomy module or something. i got the vibe the rest of the class thought it was kinda lame but i thought it slapped. the next week, i found Flood in the public library and gave it a listen.<br><br>you were great mr dixon. i remember doodling a goofy caricature of you in class, my friends and i were snickering at it. you came over to check out the fuss. i was so embarrassed. how offensive! but you said it was great, you asked if you could 'confiscate' it and put it up in your office.<br><br>it was still there when i came to say my goodbyes to you on the last day of year 13. you were a fantastic teacher. i hope you're having a wonderful life, wherever you are"
+        "comment": "i was introduced to TMBG by my high school science teacher. he played both their 'the sun is a mass of incandescent gas' as well as their sheepishly corrective 'the sun is a miasma of incandescent plasma' one day in class, for a chemistry module or something i think. states of matter, that kind of stuff. i got the vibe the rest of the class thought it was kinda lame but i thought it slapped. the next week, i found Flood in the public library and gave it a listen.<br><br>you were great mr dixon. i remember doodling a goofy caricature of you in class, my friends and i were snickering at it. you came over to check out the fuss. i was so embarrassed. how offensive! but you said it was great, you asked if you could 'confiscate' it and you put it up in your office.<br><br>it was still there when i came to say my goodbyes to you on the last day of year 13. you were a fantastic teacher. i hope you're having a wonderful life, wherever you are"
     },
     {
         "title": "Tommy airline",
@@ -565,7 +565,7 @@
         "artist": "Mid-Air Thief",
         "discovered": 2020,
         "image": "Crumbling_MidAirThief.jpg",
-        "genre": "psychedelic folk"
+        "genre": "neo-psychedelia"
     },
     {
         "title": "Doll Online",
@@ -587,7 +587,8 @@
         "artist": "Lil Ugly Mane",
         "discovered": 2023,
         "image": "VolcanicBirdEnemyAndTheVoicedConcern_LilUglyMane.jpg",
-        "genre": "neo-psychedelia"
+        "genre": "neo-psychedelia",
+        "comment": "it's that incredibly mellow, golden, warm, comfortable sadness you can just wallow in forever. the special kind that's only achievable by severely abusing depressants while you're already depressed. lil ugly mane invites you to wallow with him."
     },
     {
         "title": "PANDEMIC",
@@ -742,7 +743,7 @@
     {
         "title": "Transfiguration Of Vincent",
         "artist": "M. Ward",
-        "discovered": 2020,
+        "discovered": 2018,
         "image": "TransfigurationOfVincent_MWard.jpg",
         "genre": "folk"
     },
@@ -839,7 +840,7 @@
         "discovered": 2017,
         "image": "HeavenTonight_CheapTrick.jpg",
         "genre": "hard rock",
-        "comment": "my dad loves this album. and i guess for that reason i do, too"
+        "comment": "my dad loves this album, and now so do i by proxy. he played it in the car so much. his favourites were 'surrender', 'on top of the world' and 'auf wiedersehen', he'd usually skip the other tracks lol. can't blame him. they're bangers. just real clean singalong 70s power pop. ESPECIALLY surrender. you really can't help but sing along to that one"
     },
     {
         "title": "Marquee Moon",
@@ -1009,5 +1010,12 @@
         "discovered": 2026,
         "image": "IWantToSeePulaskiAtNight_AndrewBird.jpg",
         "genre": "chamber folk"
+    },
+    {
+        "title": "Forever Changes",
+        "artist": "Love",
+        "discovered": 2019,
+        "image": "ForeverChanges_Love.jpg",
+        "genre": "psychedelic folk"
     }
 ]

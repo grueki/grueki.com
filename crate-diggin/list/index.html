@@ -2,11 +2,16 @@
 <html id="html-root">
     <body>
         <script type="text/javascript" src="/site-wrapper.js"></script>
+        <script type="text/javascript" src="./album-grid.js"></script>
         <script>siteWrapper(
             `
-            <p>kinda fuckin rude especially after all that lovely css animation i slaved away on. but whatever</p>
+            <div class="albums-list" id="albums-list">
+                <p>kinda fkn rude especially after that lovely css animation i slaved away on. but whatever</p>
+            </div>
             `,
-            "crate-diggin/crate-diggin"
-        );</script>
+            "crate-diggin/list/list"
+            );
+            albumsGrid();
+        </script>
     </body>
 </html>
