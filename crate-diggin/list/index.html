@@ -6,7 +6,17 @@
         <script>siteWrapper(
             `
             <div class="albums-list" id="albums-list">
+                <div class="toolbar">
+                    <a href="/crate-diggin" class="back-button"><< back</a>
+                    <a href="/crate-diggin" class="sort-button">sorting by title asc</a>
+                </div>
                 <p>kinda fkn rude especially after that lovely css animation i slaved away on. but whatever</p>
+                <div class="albums-grid" id="albums-grid"></div>
+            </div>
+            <div class="modal-overlay" id="modal-overlay">
+                <div class="album-modal">
+                    <p>Some text in the Modal..</p>
+                </div>
             </div>
             `,
             "crate-diggin/list/list"

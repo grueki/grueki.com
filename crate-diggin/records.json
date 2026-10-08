@@ -259,7 +259,8 @@
         "artist": "YUKIKA",
         "discovered": 2022,
         "image": "SOULLADY_YUKIKA.jpg",
-        "genre": "city pop"
+        "genre": "city pop",
+        "comment": "OH YEAHHHH BABY. YOU CAN'T HELP BUT GET A LITTLE GROOVY TO THIS ONE. beats are so tight and the bass is so fat and the prod is so glittery. it sounds like... you got signed as a model for new york fashion week. but you're too good for that even. you skip it and spend the whole day and night taking yourself on a date instead, in your big fur coat and shiny stiletto heels and big handbag. the world is your oyster"
     },
     {
         "title": "For the first time",
@@ -588,7 +589,7 @@
         "discovered": 2023,
         "image": "VolcanicBirdEnemyAndTheVoicedConcern_LilUglyMane.jpg",
         "genre": "neo-psychedelia",
-        "comment": "it's that incredibly mellow, golden, warm, comfortable sadness you can just wallow in forever. the special kind that's only achievable by severely abusing depressants while you're already depressed. lil ugly mane invites you to wallow with him."
+        "comment": "it's that incredibly mellow, golden, warm, comfortable sadness you can just wallow in forever. the special kind that's only achievable by severely abusing depressants while you're already severely depressed. lil ugly mane invites you to wallow with him"
     },
     {
         "title": "PANDEMIC",
@@ -795,7 +796,8 @@
         "artist": "Car Seat Headrest",
         "discovered": 2021,
         "image": "HowToLeaveTown_CarSeatHeadrest.jpg",
-        "genre": "slacker rock"
+        "genre": "slacker rock",
+        "comment": "i introduced this album to an ex of mine while we were together. he overplayed it to death, so much so that today even just the first few drumbeats of 'the ending of dramamine' make my eyes roll into the back of my head from the cliche of it all. he had the desk with the speaker. days, weeks, months, the two of us in that little room. how to leave town on loop.<br><br>it's a real shame, i truly did (do) love this album. it used to sound like driving down a motorway in the middle of the light. all the lampposts are on and the city is glowing but the road is empty. the headlights cast a warm glow ahead, a foil to the colourful neon LED sigils that frame the car's internal dials and screens and knobs. something faint is playing on late-night radio, the dotted road markings almost drumming their own pattern as they slide under your wheels. and the drive just stretches on forever.<br><br>i hope one day i can enjoy this one again"
     },
     {
         "title": "Monomania",
@@ -1017,5 +1019,26 @@
         "discovered": 2019,
         "image": "ForeverChanges_Love.jpg",
         "genre": "psychedelic folk"
+    },
+    {
+        "title": "Blonde",
+        "artist": "Frank Ocean",
+        "discovered": 2019,
+        "image": "Blonde_FrankOcean.jpg",
+        "genre": "alternative R&B"
+    },
+    {
+        "title": "Race",
+        "artist": "Alex G",
+        "discovered": 2023,
+        "image": "Race_AlexG.jpg",
+        "genre": "indie folk"
+    },
+    {
+        "title": "Weather Station",
+        "artist": "INABAKUMORI",
+        "discovered": 2023,
+        "image": "WeatherStation_Inabakumori.jpg",
+        "genre": "j-pop"
     }
 ]
