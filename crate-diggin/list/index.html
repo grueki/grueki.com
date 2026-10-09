@@ -8,7 +8,16 @@
             <div class="albums-list" id="albums-list">
                 <div class="toolbar">
                     <a href="/crate-diggin" class="back-button"><< back</a>
-                    <a href="/crate-diggin" class="sort-button">sorting by title asc</a>
+                    <label for="sort" class="sort-button">sorting by</label>
+                    <select name="sort" class="sort-dropdown" id="sort-dropdown">
+                        <option value="title">title</option>
+                        <option value="artist">artist</option>
+                        <option value="year">year discovered</option>
+                    </select>
+                    <select name="direction" id="direction-dropdown">
+                        <option value="asc">asc</option>
+                        <option value="desc">desc</option>
+                    </select>
                 </div>
                 <p>kinda fkn rude especially after that lovely css animation i slaved away on. but whatever</p>
                 <div class="albums-grid" id="albums-grid"></div>
@@ -16,7 +25,7 @@
             <div class="modal-overlay" id="modal-overlay">
                 <div class="album-modal" id="album-modal">
                     <div class="album-info">
-                        <img id="modal-album-img"/>
+                        <img class="modal-album-img" id="modal-album-img"/>
                         <p class="modal-album-title" id="modal-album-title"></p>
                         <p id="modal-album-artist"></p>
                     </div>
@@ -28,6 +37,7 @@
             `,
             "crate-diggin/list/list"
             );
+            initDropdowns();
             albumsGrid();
         </script>
     </body>

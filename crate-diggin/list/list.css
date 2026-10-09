@@ -23,11 +23,11 @@
     width: 200px;
     margin: 10px;
     padding: 10px;
-    transition: transform 0.2s ease-in-out;
+    transition: transform 0.1s ease-in-out;
 }
 
 .album-card:hover {
-    transform: scale(1.1); 
+    transform: scale(1.05); 
 }
 
 .sort-button {
@@ -79,6 +79,16 @@
     margin-right: 20px;
 }
 
+@media (max-width: 1000px) {
+    .album-modal {
+        flex-direction: column;
+    }
+
+    .album-comments {
+        margin-top: 10px;
+    }
+}
+
 .album-info img {
     margin-bottom: 10px;
 }
@@ -92,6 +102,14 @@
     font-weight: bold;
 }
 
+.modal-album-img {
+    width: 200px;
+}
+
 .album-comments p {
     margin: 0;
+}
+
+.sort-dropdown {
+    margin-left: 5px;
 }

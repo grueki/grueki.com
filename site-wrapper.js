@@ -18,12 +18,12 @@ function siteWrapper(content, stylesheet) {
             <div class="main-wrapper">
                 <div class="navbar">
                     <ul>
-                        <li>` + (window.location.pathname == "/" ? `<img src="/nav-star.gif" width=24>` : ``) + `<a href="/">home</a>` + (window.location.pathname == "/" ? `<img src="/nav-star-2.gif" width=24>` : ``) + `</li>
-                        <li>` + (window.location.pathname.includes("/about") ? `<img src="/nav-star.gif" width=24>` : ``) + `<a href="/about">about</a>` + (window.location.pathname.includes("/about") ? `<img src="/nav-star-2.gif" width=24>` : ``) + `</li>
-                        <li>` + (window.location.pathname.includes("/crate-diggin") ? `<img src="/nav-star.gif" width=24>` : ``) + `<a href="/crate-diggin">crate diggin</a>` + (window.location.pathname.includes("/crate-diggin") ? `<img src="/nav-star-2.gif" width=24>` : ``) + `</li>
-                        <li>` + (window.location.pathname.includes("/words") ? `<img src="/nav-star.gif" width=24>` : ``) + `<a href="/words">words</a>` + (window.location.pathname.includes("/words") ? `<img src="/nav-star-2.gif" width=24>` : ``) + `</li>
-                        <li>` + (window.location.pathname.includes("/gallery") ? `<img src="/nav-star.gif" width=24>` : ``) + `<a href="/gallery">gallery</a>` + (window.location.pathname.includes("/gallery") ? `<img src="/nav-star-2.gif" width=24>` : ``) + `</li>
-                        <li>` + (window.location.pathname.includes("/steve") ? `<img src="/nav-star.gif" width=24>` : ``) + `<a href="/steve">steve</a>` + (window.location.pathname.includes("/steve") ? `<img src="/nav-star-2.gif" width=24>` : ``) + `</li>
+                        <li><a href="/" class="fill-li">` + (window.location.pathname == "/" ? `<img src="/nav-star.gif" width=24>` : ``) +  `<p>home</p>` + (window.location.pathname == "/" ? `<img src="/nav-star-2.gif" width=24>` : ``) + `</a></li>
+                        <li><a href="/about" class="fill-li">` + (window.location.pathname.includes("/about") ? `<img src="/nav-star.gif" width=24>` : ``) +  `<p>about</p>` + (window.location.pathname.includes("/about") ? `<img src="/nav-star-2.gif" width=24>` : ``) + `</a></li>
+                        <li><a href="/crate-diggin" class="fill-li">` + (window.location.pathname.includes("/crate-diggin") ? `<img src="/nav-star.gif" width=24>` : ``) +  `<p>crate diggin</p>` + (window.location.pathname.includes("/crate-diggin") ? `<img src="/nav-star-2.gif" width=24>` : ``) + `</a></li>
+                        <li><a href="/words" class="fill-li">` + (window.location.pathname.includes("/words") ? `<img src="/nav-star.gif" width=24>` : ``) +  `<p>words</p>` + (window.location.pathname.includes("/words") ? `<img src="/nav-star-2.gif" width=24>` : ``) + `</a></li>
+                        <li><a href="/gallery" class="fill-li">` + (window.location.pathname.includes("/gallery") ? `<img src="/nav-star.gif" width=24>` : ``) +  `<p>gallery</p>` + (window.location.pathname.includes("/gallery") ? `<img src="/nav-star-2.gif" width=24>` : ``) + `</a></li>
+                        <li><a href="/steve" class="fill-li">` + (window.location.pathname.includes("/steve") ? `<img src="/nav-star.gif" width=24>` : ``) +  `<p>steve</p>` + (window.location.pathname.includes("/steve") ? `<img src="/nav-star-2.gif" width=24>` : ``) + `</a></li>
                     </ul>
                 </div>
 

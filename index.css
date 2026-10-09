@@ -14,7 +14,6 @@ body {
 
 .header-banner {
     height: 150px;
-    /* border-color: blueviolet; */
     border-bottom: 1px solid rgb(224, 45, 186);
     align-items: center;
     justify-content: center;
@@ -41,15 +40,18 @@ body {
 }
 
 .navbar li {
-    padding: 15px 0px 20px 20px;
     border-bottom: 1px solid rgb(224, 45, 186);
+}
+
+.navbar a {
+    padding: 15px 0px 20px 20px;
+    color: rgb(224, 45, 186);
     display: flex;
     align-items: center;
 }
 
-.navbar a {
-    color: rgb(224, 45, 186);
-    padding: 0 10px;
+.navbar p {
+    margin: 0 10px;
 }
 
 .main-content {
@@ -112,4 +114,18 @@ body {
 @keyframes scrollingText {
     0%   { transform: translate(0, 0)    ; }
     100% { transform: translate(-100%, 0); }
+}
+
+a {
+    color: #ffadff;
+}
+
+a:active {
+    color: #47cee6;
+}
+
+.fill-li {
+    display: block;
+    height: 100%;
+    width: 100%;
 }

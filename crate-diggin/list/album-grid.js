@@ -1,9 +1,30 @@
-async function albumsGrid() {
+async function albumsGrid(sort = 'title', direction = 'asc') {
     try {
         var json = await fetch('/crate-diggin/records.json');
         var albums = await json.json();
 
-        albums.sort((a, b) => a.title.localeCompare(b.title));
+        if (direction == 'asc') {
+            if (sort == 'title') {
+                albums.sort((a, b) => a.title.localeCompare(b.title));
+            }
+            if (sort == 'artist') {
+                albums.sort((a, b) => a.artist.localeCompare(b.artist));
+            }
+            if (sort == 'year') {
+                albums.sort((a, b) => a.discovered - b.discovered);
+            }
+        }
+        else if (direction == 'desc') {
+            if (sort == 'title') {
+                albums.sort((a, b) => b.title.localeCompare(a.title));
+            }
+            if (sort == 'artist') {
+                albums.sort((a, b) => b.artist.localeCompare(a.artist));
+            }
+            if (sort == 'year') {
+                albums.sort((a, b) => b.discovered - a.discovered);
+            }
+        }
 
         var modalOverlay = document.getElementById("modal-overlay");
         var modalAlbumImg = document.getElementById("modal-album-img");
@@ -16,6 +37,8 @@ async function albumsGrid() {
                 modalOverlay.style.display = "none";
             }
         } 
+
+        document.getElementById("albums-grid").replaceChildren();
 
         albums.forEach(album => {
             const div = document.createElement('div');
@@ -47,7 +70,6 @@ async function albumsGrid() {
 
             div.onclick = function() {
                 modalAlbumImg.src = "/crate-diggin/record-img/" + album.image;
-                modalAlbumImg.style.width = "200px";
 
                 modalAlbumTitle.textContent = album.title;
                 modalAlbumArtist.textContent = album.artist;
@@ -60,4 +82,19 @@ async function albumsGrid() {
     } catch (error) {
         console.error("failed to load or parse JSON");
     }
+}
+
+function initDropdowns() {
+    const sortDropdown = document.getElementById("sort-dropdown");
+    const dirDropdown = document.getElementById("direction-dropdown");
+
+    sortDropdown.addEventListener('change', (event) => {
+        const selectedValue = event.target.value;
+        albumsGrid(selectedValue, dirDropdown.value);
+    });
+    
+    dirDropdown.addEventListener('change', (event) => {
+        const selectedValue = event.target.value;
+        albumsGrid(sortDropdown.value, selectedValue);
+    });
 }
