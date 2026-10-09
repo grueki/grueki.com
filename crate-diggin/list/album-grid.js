@@ -38,6 +38,13 @@ async function albumsGrid(sort = 'title', direction = 'asc') {
             }
         } 
 
+        window.ontouchend = function(event) {
+            if (event.target == modalOverlay) {
+                modalOverlay.style.display = "none";
+                event.preventDefault(); 
+            }
+        }
+
         document.getElementById("albums-grid").replaceChildren();
 
         albums.forEach(album => {
