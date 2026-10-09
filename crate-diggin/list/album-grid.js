@@ -5,11 +5,15 @@ async function albumsGrid() {
 
         albums.sort((a, b) => a.title.localeCompare(b.title));
 
-        var albumModal = document.getElementById("modal-overlay");
+        var modalOverlay = document.getElementById("modal-overlay");
+        var modalAlbumImg = document.getElementById("modal-album-img");
+        var modalAlbumTitle = document.getElementById("modal-album-title");
+        var modalAlbumArtist = document.getElementById("modal-album-artist");
+        var modalAlbumComment = document.getElementById("modal-album-comment");
 
         window.onclick = function(event) {
-            if (event.target == albumModal) {
-                albumModal.style.display = "none";
+            if (event.target == modalOverlay) {
+                modalOverlay.style.display = "none";
             }
         } 
 
@@ -42,7 +46,15 @@ async function albumsGrid() {
             div.appendChild(albumImg);
 
             div.onclick = function() {
-                albumModal.style.display = "block";
+                modalAlbumImg.src = "/crate-diggin/record-img/" + album.image;
+                modalAlbumImg.style.width = "200px";
+
+                modalAlbumTitle.textContent = album.title;
+                modalAlbumArtist.textContent = album.artist;
+
+                modalAlbumComment.innerHTML = "I discovered this one in " + album.discovered + ". It's a" + ('aeiou'.includes(album.genre[0].toLowerCase()) ? "n" : "") + " " + album.genre + " album.<br><br>" + ((album.comment) ?? "");
+
+                modalOverlay.style.display = "flex";
             }
         });
     } catch (error) {
