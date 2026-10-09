@@ -23,7 +23,7 @@ function siteWrapper(content, stylesheet) {
                         <li><a href="/crate-diggin" class="fill-li">` + (window.location.pathname.includes("/crate-diggin") ? `<img src="/nav-star.gif" width=24>` : ``) +  `<p>crate diggin</p>` + (window.location.pathname.includes("/crate-diggin") ? `<img src="/nav-star-2.gif" width=24>` : ``) + `</a></li>
                         <li><a href="/words" class="fill-li">` + (window.location.pathname.includes("/words") ? `<img src="/nav-star.gif" width=24>` : ``) +  `<p>words</p>` + (window.location.pathname.includes("/words") ? `<img src="/nav-star-2.gif" width=24>` : ``) + `</a></li>
                         <li><a href="/gallery" class="fill-li">` + (window.location.pathname.includes("/gallery") ? `<img src="/nav-star.gif" width=24>` : ``) +  `<p>gallery</p>` + (window.location.pathname.includes("/gallery") ? `<img src="/nav-star-2.gif" width=24>` : ``) + `</a></li>
-                        <li><a href="/steve" class="fill-li">` + (window.location.pathname.includes("/steve") ? `<img src="/nav-star.gif" width=24>` : ``) +  `<p>steve</p>` + (window.location.pathname.includes("/steve") ? `<img src="/nav-star-2.gif" width=24>` : ``) + `</a></li>
+                        <!-- <li><a href="/steve" class="fill-li">` + (window.location.pathname.includes("/steve") ? `<img src="/nav-star.gif" width=24>` : ``) +  `<p>steve</p>` + (window.location.pathname.includes("/steve") ? `<img src="/nav-star-2.gif" width=24>` : ``) + `</a></li> -->
                     </ul>
                 </div>
 
