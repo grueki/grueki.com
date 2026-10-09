@@ -37,10 +37,12 @@ body {
 .navbar ul {
     margin: 0;
     padding: 0;
+    list-style: none;
 }
 
 .navbar li {
     border-bottom: 1px solid rgb(224, 45, 186);
+    list-style: none;
 }
 
 .navbar a {
