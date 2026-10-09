@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html id="html-root">
+    <body>
+        <script type="text/javascript" src="/site-wrapper.js"></script>
+        <script type="text/javascript" src="./digger.js"></script>
+        <script>siteWrapper(
+            `
+            <p>oh nice. you made it to my record collection. feel free to take a look</p>
+            <button id="dig-button" onclick="dig()">go diggin</button>
+            <div class="record-case-outer">
+                <div class="record-case">
+                    <div id="all-records">
+                        <div class="record-stack">
+                            <div class="record-sleeve one"></div>
+                            <div class="record-sleeve two"></div>
+                            <div class="record-sleeve three"></div>
+                            <div class="record-sleeve four"></div>
+                            <div class="record-sleeve five"></div>
+                            <div class="record-sleeve six"></div>
+                            <div class="record-sleeve seven"></div>
+                            <div class="record-sleeve eight"></div>
+                            <div class="record-sleeve nine"></div>
+                            <div class="record-sleeve ten"></div>
+                            <div class="record-sleeve eleven"></div>
+                            <div class="record-sleeve twelve"></div>
+                        </div>
+                        <div class="record-stack">
+                            <div class="record-sleeve one"></div>
+                            <div class="record-sleeve two"></div>
+                            <div class="record-sleeve three"></div>
+                            <div class="record-sleeve four"></div>
+                            <div class="record-sleeve five"></div>
+                            <div class="record-sleeve six"></div>
+                            <div class="record-sleeve seven"></div>
+                            <div class="record-sleeve eight"></div>
+                            <div class="record-sleeve nine"></div>
+                            <div class="record-sleeve ten"></div>
+                            <div class="record-sleeve eleven"></div>
+                            <div class="record-sleeve twelve"></div>
+                            <div class="thirteen final"></div>
+                        </div>
+                    </div>
+                    <div id="final-record" class="final"></div>
+                </div>
+            </div>
+            <p class="album-info" id="album-info"></p>
+            <div class="bottom-div">
+                <a href="/crate-diggin/list" class="list-button">izzy im sick of ts just show me the goods >></a>
+            </div>
+            `,
+            "crate-diggin/crate-diggin"
+        );</script>
+    </body>
+</html>

@@ -1,0 +1,115 @@
+.album-info {
+    text-align: center;
+    height: 200px;
+    max-width: 1000px;
+}
+
+.record-case-outer {
+    padding: 20px;
+    background-color: aliceblue;
+    margin-top: 20px;
+}
+
+.record-case {
+    height: 200px;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.all-records {
+    animation: recordScroll 2s cubic-bezier(0, 0, 0, 1) 1;
+    animation-fill-mode: forwards;
+}
+
+.record-stack {
+    display: grid;
+    justify-content: center;
+    
+    margin: 0 auto;
+    height: 480px;
+}
+
+.record-sleeve {
+    height: 200px;
+    width: 200px;
+    grid-row-start: 1;
+    grid-column-start: 1;
+    box-shadow: 0 -10px 20px black;
+}
+
+.one {
+    margin-top: 0px;
+}
+
+.two {
+    margin-top: 40px;
+}
+
+.three {
+    margin-top: 80px;
+}
+
+.four {
+    margin-top: 120px;
+}
+
+.five {
+    margin-top: 160px;
+}
+
+.six {
+    margin-top: 200px;
+}
+
+.seven {
+    margin-top: 240px;
+}
+
+.eight {
+    margin-top: 280px;
+}
+
+.nine {
+    margin-top: 320px;
+}
+
+.ten {
+    margin-top: 360px;
+}
+
+.eleven {
+    margin-top: 400px;
+}
+
+.twelve {
+    margin-top: 440px;
+}
+
+.thirteen {
+    margin-top: 480px;
+}
+
+.final {
+    z-index: 999;
+    height: 200px;
+    width: 200px;
+    grid-row-start: 1;
+    grid-column-start: 1;
+    box-shadow: 0 -10px 20px black;
+}
+
+@keyframes recordScroll {
+    0%   { transform: translate(0, 0); }
+    100% { transform: translate(0, -100%); }
+}
+
+.bottom-div {
+    width: 100%;
+    max-width: 1000px;
+    position: absolute;
+    bottom: 0;
+    display: grid;
+    justify-content: end;
+}

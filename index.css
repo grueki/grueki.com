@@ -2,13 +2,56 @@ html, body {
     height: 100%;
     margin: 0;
     padding: 0;
+    background-color: rgb(5, 9, 27);
+    visibility: visible;
 }
 
 body {
-    background-color: chartreuse;
     display: flex;
     flex-direction: column;
-    
+    visibility: visible;
+}
+
+.header-banner {
+    height: 150px;
+    border-bottom: 1px solid rgb(224, 45, 186);
+    align-items: center;
+    justify-content: center;
+    display:flex;
+}
+
+.main-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    overflow: hidden;
+}
+
+.navbar {
+    width:250px;
+    border-right: 1px solid rgb(224, 45, 186);
+    margin: 0;
+    padding: 0;
+}
+
+.navbar ul {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar li {
+    border-bottom: 1px solid rgb(224, 45, 186);
+}
+
+.navbar a {
+    padding: 15px 0px 20px 20px;
+    color: rgb(224, 45, 186);
+    display: flex;
+    align-items: center;
+}
+
+.navbar p {
+    margin: 0 10px;
 }
 
 .main-content {
@@ -17,16 +60,21 @@ body {
     flex: 1;
     align-items: center;
     justify-content: center;
+    position: relative;
+    color: rgb(224, 45, 186);
+    margin: 30px;
+    overflow-y: auto;
 }
 
 .home-title {
+    color: white;
     text-align: center;
     width: fit-content;
 }
 
 .home-title:hover h1{
     color:red;
-    animation: goofyRotate 0.5s linear infinite;
+    animation: goofyRotate 0.3s linear infinite;
 }
 
 .home-paragraph {
@@ -48,11 +96,11 @@ body {
 .footer-banner p {
     color: white;
     margin:0;
-    animation: scrollingText 10s linear infinite;
+    animation: scrollingText 30s linear infinite;
 }
 
 .scrolltext2 {
-    animation-delay: 5s;
+    animation-delay: 15s;
 }
 
 @keyframes goofyRotate {
@@ -66,4 +114,18 @@ body {
 @keyframes scrollingText {
     0%   { transform: translate(0, 0)    ; }
     100% { transform: translate(-100%, 0); }
+}
+
+a {
+    color: #ffadff;
+}
+
+a:active {
+    color: #47cee6;
+}
+
+.fill-li {
+    display: block;
+    height: 100%;
+    width: 100%;
 }
