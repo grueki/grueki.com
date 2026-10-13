@@ -4,6 +4,10 @@
     max-width: 1000px;
 }
 
+p {
+    text-align: center;
+}
+
 .record-case-outer {
     padding: 20px;
     background-color: aliceblue;
@@ -26,7 +30,6 @@
 .record-stack {
     display: grid;
     justify-content: center;
-    
     margin: 0 auto;
     height: 480px;
 }
@@ -112,4 +115,14 @@
     bottom: 0;
     display: grid;
     justify-content: end;
+}
+
+@media (max-width: 1000px) {
+    .record-case-outer {
+        zoom: 2;
+    }
+
+    button {
+        transform: scale(2);
+    }
 }

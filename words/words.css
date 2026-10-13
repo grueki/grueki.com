@@ -16,14 +16,11 @@
     width: 100%;
     align-items: center;
     margin-bottom: 30px;
+    text-align: center;
 }
 
 .prose-title{
     margin: 0 auto;
-}
-
-.back-button {
-    position: absolute;
 }
 
 .prose-wrapper {
