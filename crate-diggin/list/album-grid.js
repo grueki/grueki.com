@@ -81,7 +81,7 @@ async function albumsGrid(sort = 'title', direction = 'asc') {
                 modalAlbumTitle.textContent = album.title;
                 modalAlbumArtist.textContent = album.artist;
 
-                modalAlbumComment.innerHTML = "I discovered this one in " + album.discovered + ". It's a" + ('aeiou'.includes(album.genre[0].toLowerCase()) ? "n" : "") + " " + album.genre + " album.<br><br>" + ((album.comment) ?? "");
+                modalAlbumComment.innerHTML = "I discovered this album in " + album.discovered + ". It's a" + ('aeiou'.includes(album.genre[0].toLowerCase()) ? "n" : "") + " " + album.genre + " album.<br><br>" + ((album.comment) ?? "");
 
                 modalOverlay.style.display = "flex";
             }
